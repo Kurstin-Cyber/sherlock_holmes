@@ -1,6 +1,6 @@
 # Thumbnails
 
-*Stage 5 · Draft 1 for producer approval*
+*Stage 5 · Approved (first set) · second set (clue frames, episodes 2 to 13) draft 1*
 
 Drawn thumbnails for the key panels called out in the shot lists. They are **vector drawings
 (SVG)** with PNG previews, in a simple storybook style. They show **staging, framing, colour and
@@ -20,6 +20,25 @@ outfit and silhouette is clear.
 | 09 | [`09-ep08-quiet-high-point`](09-ep08-quiet-high-point.png) | Ep. 8: the glowing lantern kite, everyone gazing up | E08 scene 8 |
 | 10 | [`10-ep09-shadow-hound`](10-ep09-shadow-hound.png) | Ep. 9: the hound made of the kids (cap flaps, telescope, curls, arm) | E09 scene 5 |
 | 11 | [`11-ep13-final-image`](11-ep13-final-image.png) | The series' last image: a boy and a dog under the first star | E13 scene 11 |
+
+### Clue frames for every episode (second set)
+
+Each sheet shows an episode's three clues as their first-showing frames. The shot lists' replays and recaps reuse these framings exactly.
+
+| # | Image | What it shows | Shot-list reference |
+|---|---|---|---|
+| 12 | [`12-ep02-clue-frames`](12-ep02-clue-frames.png) | Ep. 2, "The Case of the Missing Sandwiches": the three clues in their first-showing frames (each replay reuses this framing) | E02 clue frames |
+| 13 | [`13-ep03-clue-frames`](13-ep03-clue-frames.png) | Ep. 3, "The Light in the Attic Window": the three clues in their first-showing frames (each replay reuses this framing) | E03 clue frames |
+| 14 | [`14-ep04-clue-frames`](14-ep04-clue-frames.png) | Ep. 4, "The Boots That Vanished": the three clues in their first-showing frames (each replay reuses this framing) | E04 clue frames |
+| 15 | [`15-ep05-clue-frames`](15-ep05-clue-frames.png) | Ep. 5, "The Howl at Bedtime": the three clues in their first-showing frames (each replay reuses this framing) | E05 clue frames |
+| 16 | [`16-ep06-clue-frames`](16-ep06-clue-frames.png) | Ep. 6, "The Story That Wasn't There": the three clues in their first-showing frames (each replay reuses this framing) | E06 clue frames |
+| 17 | [`17-ep07-clue-frames`](17-ep07-clue-frames.png) | Ep. 7, "The Portrait That Winked": the three clues in their first-showing frames (each replay reuses this framing) | E07 clue frames |
+| 18 | [`18-ep08-clue-frames`](18-ep08-clue-frames.png) | Ep. 8, "The Flying Lantern": the three clues in their first-showing frames (each replay reuses this framing) | E08 clue frames |
+| 19 | [`19-ep09-clue-frames`](19-ep09-clue-frames.png) | Ep. 9, "The Shadow on the Stones": the three clues in their first-showing frames (each replay reuses this framing) | E09 clue frames |
+| 20 | [`20-ep10-clue-frames`](20-ep10-clue-frames.png) | Ep. 10, "The Trail That Went in Circles": the three clues in their first-showing frames (each replay reuses this framing) | E10 clue frames |
+| 21 | [`21-ep11-clue-frames`](21-ep11-clue-frames.png) | Ep. 11, "The Hound's Sore Paw": the three clues in their first-showing frames (each replay reuses this framing) | E11 clue frames |
+| 22 | [`22-ep12-clue-frames`](22-ep12-clue-frames.png) | Ep. 12, "The Boy Who Saw the Hound": the three clues in their first-showing frames (each replay reuses this framing) | E12 clue frames |
+| 23 | [`23-ep13-clue-frames`](23-ep13-clue-frames.png) | Ep. 13, "Camp Day": the three clues in their first-showing frames (each replay reuses this framing) | E13 clue frames |
 
 ## Notes for the producer
 
