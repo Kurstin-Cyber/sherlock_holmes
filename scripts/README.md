@@ -19,8 +19,11 @@ pilot outline in `season/pilot-outline.md`.
 
 | # | Title | Script | Status |
 |---|---|---|---|
-| 1 | The Hound Comes Home (pilot, 22 min) | `ep01-the-hound-comes-home.md` | Draft 1, awaiting producer notes |
-| 2 to 13 | See `season/episode-list.md` | Not started | Waiting for pilot notes, so the voice and format are locked first |
+| 1 | The Hound Comes Home (pilot, 22 min) | `ep01-the-hound-comes-home.md` | Draft 2 (producer notes applied) |
+| 2 | The Case of the Missing Sandwiches | `ep02-the-case-of-the-missing-sandwiches.md` | Draft 1, awaiting producer notes |
+| 3 | The Light in the Attic Window | `ep03-the-light-in-the-attic-window.md` | Draft 1, awaiting producer notes |
+| 4 | The Boots That Vanished | `ep04-the-boots-that-vanished.md` | Draft 1, awaiting producer notes |
+| 5 to 13 | See `season/episode-list.md` | Not started | Next batch after notes on episodes 2 to 4 |
 
 ## Writing rules
 
@@ -31,3 +34,14 @@ pilot outline in `season/pilot-outline.md`.
 5. The lesson is shown first and said once, by a kid, in kid words.
 6. Moony is silhouetted (with a floppy ear and a wagging tail) until the pilot's reveal, and
    is cleared in every episode.
+
+## Running details (so every script matches)
+
+- **Camp Day chalkboard** in the dining room reads `(13 minus the episode number) x 5` days to
+  go. Background only.
+- **Anjali's one-line reminder** opens every episode after the pilot: "Remember! The Hound is
+  big, he's shaggy, and he wants a snack!"
+- **Watson's journal day numbers** follow the suggested order (episode 2 = day 31, episode 3 =
+  day 36, episode 4 = day 41, and so on, five days apart). They never matter to the plot.
+- **Holmes's "THINGS THAT GO BUMP" chart** gains one line per episode (optional gag).
+- **Tavita's "Never mind"** appears once an episode, twice at most.
