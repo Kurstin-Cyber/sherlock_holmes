@@ -1,6 +1,6 @@
 # Episode 8: The Flying Lantern: Shot List and Storyboard Panels
 
-*Stage 5 · Draft 1 for producer approval · target 11:00 · timing-report padding plan applied*
+*Stage 5 · Approved · target 11:00 · timing-report padding plan applied*
 
 Script: `scripts/ep08-the-flying-lantern.md`. Rules: `shot-language-guide.md`.
 

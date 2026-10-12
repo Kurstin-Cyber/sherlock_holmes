@@ -1,6 +1,6 @@
 # Episode 10: The Trail That Went in Circles: Shot List and Storyboard Panels
 
-*Stage 5 · Draft 1 for producer approval · target 11:00 · timing-report padding plan applied*
+*Stage 5 · Approved · target 11:00 · timing-report padding plan applied*
 
 Script: `scripts/ep10-the-trail-that-went-in-circles.md`. Rules: `shot-language-guide.md`.
 
