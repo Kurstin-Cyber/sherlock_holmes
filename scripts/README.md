@@ -29,7 +29,9 @@ pilot outline in `season/pilot-outline.md`.
 | 8 | The Flying Lantern | `ep08-the-flying-lantern.md` | Draft 1, approved |
 | 9 | The Shadow on the Stones | `ep09-the-shadow-on-the-stones.md` | Draft 1, approved |
 | 10 | The Trail That Went in Circles | `ep10-the-trail-that-went-in-circles.md` | Draft 1, approved |
-| 11 to 13 | See `season/episode-list.md` | Not started | Final batch after notes on episodes 8 to 10 |
+| 11 | The Hound's Sore Paw | `ep11-the-hounds-sore-paw.md` | Draft 1, awaiting producer notes |
+| 12 | The Boy Who Saw the Hound | `ep12-the-boy-who-saw-the-hound.md` | Draft 1, awaiting producer notes |
+| 13 | Camp Day (finale) | `ep13-camp-day.md` | Draft 1, awaiting producer notes |
 
 ## Writing rules
 
@@ -49,7 +51,8 @@ pilot outline in `season/pilot-outline.md`.
   big, he's shaggy, and he wants a snack!"
 - **Watson's journal day numbers** follow the suggested order (episode 2 = day 31, episode 3 =
   day 36, episode 4 = day 41, episode 5 = day 46, episode 6 = day 51, episode 7 = day 56,
-  episode 8 = day 61, episode 9 = day 66, episode 10 = day 71, and so on, five days apart). They never matter to the plot.
+  episode 8 = day 61, episode 9 = day 66, episode 10 = day 71, episode 11 = day 76, episode 12 = day 81, episode 13 = day 86; five days
+  apart). They never matter to the plot.
 - **Holmes's "THINGS THAT GO BUMP" chart** gains one line per episode (optional gag).
 - **Tavita's "Never mind"** appears once an episode, twice at most.
 - **Smells are shown as coloured ribbons** with little icons inside (lilac with paint pots in
