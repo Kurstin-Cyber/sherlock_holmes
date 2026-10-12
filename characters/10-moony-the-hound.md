@@ -35,7 +35,7 @@
 **Flaws**
 - Loves snacks a little too much (steals sandwiches)
 - Clumsy; sits on things, knocks things over, wags objects off tables
-- Gets scared of small things (squirrels, wind, hats)
+- Gets scared of small things (squirrels, wind, hats, and ducks)
 - Howls when he's happy, hungry or lonely, which gets him blamed
 
 **Quirks**

@@ -19,10 +19,10 @@ pilot outline in `season/pilot-outline.md`.
 
 | # | Title | Script | Status |
 |---|---|---|---|
-| 1 | The Hound Comes Home (pilot, 22 min) | `ep01-the-hound-comes-home.md` | Draft 2 (producer notes applied) |
-| 2 | The Case of the Missing Sandwiches | `ep02-the-case-of-the-missing-sandwiches.md` | Draft 1, awaiting producer notes |
-| 3 | The Light in the Attic Window | `ep03-the-light-in-the-attic-window.md` | Draft 1, awaiting producer notes |
-| 4 | The Boots That Vanished | `ep04-the-boots-that-vanished.md` | Draft 1, awaiting producer notes |
+| 1 | The Hound Comes Home (pilot, 22 min) | `ep01-the-hound-comes-home.md` | Draft 2, approved |
+| 2 | The Case of the Missing Sandwiches | `ep02-the-case-of-the-missing-sandwiches.md` | Draft 1, approved |
+| 3 | The Light in the Attic Window | `ep03-the-light-in-the-attic-window.md` | Draft 1, approved |
+| 4 | The Boots That Vanished | `ep04-the-boots-that-vanished.md` | Draft 1, approved |
 | 5 to 13 | See `season/episode-list.md` | Not started | Next batch after notes on episodes 2 to 4 |
 
 ## Writing rules

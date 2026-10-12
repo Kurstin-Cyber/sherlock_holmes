@@ -101,10 +101,10 @@ Stage 2 proposes an answer to most items below. See `characters/00-cast-overview
 
 ## New from Stage 4 (scripts)
 
-- [ ] **The attic lift** (a slow, star-painted cage lift, ep. 3) and **the Squelch Lookout
+- [x] **The attic lift** (a slow, star-painted cage lift, ep. 3) and **the Squelch Lookout
   Deck** (a campers' platform with a bell, pulley and flag, ep. 4) as fixed locations.
 - [ ] **Sign-language consultant** for Linh, Minh and the other characters' signing.
-- [ ] **The whole team saying the chant** (ep. 4). Keep it as a rare moment, or allow it more?
-- [ ] **Moony is afraid of ducks.** Add to his profile?
-- [ ] **Holmes's "THINGS THAT GO BUMP" chart** as an optional running gag.
-- [ ] **Tavita's "Never mind"** once per episode, twice at most.
+- [x] **The whole team saying the chant** (ep. 4). Keep it as a rare moment, or allow it more?
+- [x] **Moony is afraid of ducks.** Add to his profile?
+- [x] **Holmes's "THINGS THAT GO BUMP" chart** as an optional running gag.
+- [x] **Tavita's "Never mind"** once per episode, twice at most.
