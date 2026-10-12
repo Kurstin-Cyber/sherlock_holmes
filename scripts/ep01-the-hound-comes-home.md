@@ -1,6 +1,6 @@
 # EPISODE 1: "THE HOUND COMES HOME"
 
-*Pilot special · 22 minutes in two 11-minute halves · Script draft 1 · Stage 4*
+*Pilot special · 22 minutes in two 11-minute halves · Script draft 2 · Stage 4*
 
 **Lesson:** Kindness. Sharing a discovery makes it bigger, not smaller.
 **Clues:** (1) stamped glow-paint paw prints · (2) the harmonica wobble and the green netting · (3) cheese crumbs and wobbly grey paw prints
@@ -305,23 +305,34 @@ My sister. Hana.
 (delighted)
 Curious... very curious!
 
-*She taps her magnifier twice. Watson clears his throat. She frowns at him. He tilts his
-head very slightly at Henry, whose eyes are shining.*
+*She taps her magnifier twice. Henry's eyes are shining. Holmes doesn't see. She is
+already kneeling to look at his bootlace.*
 
 **HOLMES (CONT'D)**
-(slower)
-Oh. Oh. That's... sad, isn't it?
+Double knot. You're careful. Or you're worried. Or both. Interesting!
+
+*Watson rolls up beside Henry and speaks softly, so only Henry hears.*
+
+**WATSON**
+(gently)
+Missing people is hard. I miss my dads, too.
 
 **HENRY**
 (a little voice)
 A bit.
 
-*Holmes thinks. Then she takes something from her shelf: a bottle cap.*
+*Watson takes a small gold star sticker from his chair and sticks it on the front of
+Henry's hat. Henry touches it. Almost smiles.*
 
 **HOLMES**
-This is my favourite bottle cap. You can hold it. It's good for missing people.
+(not looking up, scribbling)
+Why did everyone stop talking?
 
-*Henry takes it. Holds it. Almost smiles.*
+*Watson and Henry share a look. DING-DING.*
+
+**ANIMATOR:** Holmes is busy with the bootlace and doesn't notice. The warmth in this scene
+belongs to Watson and Henry. Holmes's oblivious moment is a gentle gag, not a flaw to
+punish.
 
 **WATSON**
 (writing)
@@ -556,13 +567,12 @@ Do you miss it?
 **HENRY**
 Yeah. But... it's pretty here, too.
 
-*Holmes looks up from her notes, a little surprised.*
+*Holmes, busy holding up a wet finger to test the wind, doesn't look round.*
 
 **HOLMES**
-(trying)
-I'm... glad it's pretty. For you.
+East wind. Good for howls.
 
-*Watson smiles at her. DING-DING.*
+*Watson smiles at Henry. DING-DING.*
 
 *Then, from the Stone Circle across the valley, comes the long, wobbly sound.*
 
@@ -644,10 +654,17 @@ So, someone made them?
 (quickly)
 Someone made them.
 
-*She looks at Henry. She actually looks at him.*
+*She looks at Henry's hat. It is trembling.*
 
 **HOLMES (CONT'D)**
-You're not scared, are you?
+Fascinating. Your hat is shaking.
+
+**WATSON**
+(gently)
+Holmes. He's scared.
+
+**HOLMES**
+Oh! ...Are you?
 
 **HENRY**
 (honest)
@@ -780,10 +797,7 @@ Someone's been taking cheese every night!
 Only a little.
 
 **LINH**
-A crust of bread, a slice of cheese, a corner of toastie.
-
-**MINH**
-Always at the same time.
+A crust, a slice, a corner of toastie. Always at the same time.
 
 **HOLMES**
 (thinking)
@@ -817,19 +831,10 @@ Soft shoes. Quick. They wear something floppy.
 (delighted)
 A small person. In a floppy coat. Who takes cheese.
 
-*Linh hands her a toastie.*
-
-**LINH**
-Take one. For the road.
-
-**MINH**
-(deadpan)
-It's good for thinking.
-
-*Holmes takes the toastie. Then she stops and looks at Minh, properly.*
+*Holmes looks at Minh, properly.*
 
 **HOLMES**
-Thank you. You noticed something I couldn't. That's... really good.
+Thank you, Minh. You noticed something I couldn't.
 
 *Minh blinks. Then grins.*
 
@@ -1009,6 +1014,50 @@ Writing that down!
 
 ## ACT SEVEN: THE REVEAL (18:30 to 20:00)
 
+### EXT. GORSE CABIN, BACK STEPS. TWILIGHT.
+
+*A quiet corner behind a small cabin. Lantern light. Jasper sits alone on the steps, his
+clipboard beside him, polishing a small silver harmonica with his sleeve. Beryl comes
+round the corner and sits next to him. She doesn't say anything for a moment.*
+
+**BERYL**
+Holmes found the prints. And the netting.
+
+**JASPER**
+(stiffly)
+She can't prove anything. The meadow is closed. Rules are rules.
+
+*He taps his clipboard twice.*
+
+**BERYL**
+(gently)
+Actually... that's not quite true.
+
+*Jasper looks at her.*
+
+**BERYL (CONT'D)**
+There's no rule that says you can't share it. You made that one up. I know. I've read the
+Nature Club rules twice.
+
+*Silence. Jasper looks at the harmonica.*
+
+**BERYL (CONT'D)**
+It's the loveliest thing you ever found. I want everybody to see it. And I don't want to
+tell on you. So... would you tell them? I'll sit with you.
+
+**JASPER**
+(small)
+What if they're angry?
+
+**BERYL**
+Then I'll still be sitting there.
+
+*She takes his hand. A long breath. Jasper leaves his clipboard on the step, puts the
+harmonica in his pocket, and stands.*
+
+**ANIMATOR:** Keep this scene small and quiet: two kids, one lantern, soft gold light. The
+clipboard left on the step is the visual beat: he is putting the rules down.
+
 ### EXT. CAMPFIRE CIRCLE. NIGHT.
 
 *The fire crackles. The whole camp is gathered on the logs. Lanterns glow. Stars are coming
@@ -1016,8 +1065,7 @@ out, soft and sparkly. Moony is NOT there; Zaid and Henry are guarding him nearb
 sight.*
 
 *Holmes stands in the centre of the circle, magnifier in hand. Watson sits beside her with
-the journal open. Jasper is at the back, clipboard on his lap. Beryl sits beside him,
-twirling her plait.*
+the journal open. Jasper and Beryl slip in at the back and stand together, hand in hand.*
 
 **HOLMES**
 (calm)
@@ -1046,35 +1094,29 @@ Trick two: the howl. It wobbles like a harmonica. And a scrap of net was left on
 *A glowing outline of the netting. Heads begin to turn.*
 
 **HOLMES (CONT'D)**
-Whoever did this carries a net. And a clipboard. And a lot of rules.
+Whoever did this carries a net. And a clipboard. And a lot of rules. And that person is...
 
-*She turns to Jasper.*
-
-*Jasper stands slowly. He taps his clipboard twice. He opens his mouth.*
+*Before she can finish, Jasper steps forward into the firelight, still holding Beryl's
+hand. He takes the silver harmonica from his pocket and holds it up.*
 
 **JASPER**
-(stiffly)
-I was in my cabin all afternoon. You can't prove anything. I don't have a harmonica.
+(clearly, though his voice shakes)
+It was me.
 
-*A tiny pause. Beryl twirls her plait. Then, quietly:*
+*Holmes's mouth stays open. She lowers her finger.*
 
-**BERYL**
-Actually... that's not quite true.
+**HOLMES**
+(small)
+...I was about to say that.
 
-*Everybody looks at her.*
+**WATSON**
+(softly)
+Holmes.
 
-**BERYL (CONT'D)**
-(trembling, but clear)
-You were on Tor Hill. I saw. And you do have a harmonica. It's in your left pocket.
+**HOLMES**
+Right. (to Jasper) Thank you for telling us.
 
-*Silence. Jasper's shoulders sink. He slowly pulls a small silver harmonica out of his
-pocket. He looks at it. He looks at Beryl. She looks at him with big, kind eyes.*
-
-**BERYL (CONT'D)**
-(gently)
-I'm sorry, Jasper. But it wasn't fair.
-
-*Jasper sits down. A long breath. He doesn't cry, but his chin wobbles.*
+*Jasper nods. He swallows.*
 
 **JASPER**
 (very quietly)
@@ -1262,18 +1304,18 @@ That's a hungry dog. And a kind friend who was feeding him.
 
 **HOLMES (CONT'D)**
 (turning to Henry)
-And one thing I didn't notice until later.
+And one more thing.
 
 **HENRY**
 What?
 
 **HOLMES**
-(trying, honestly)
-You were a bit sad. And we helped.
+(counting on her fingers)
+Watson noticed you were sad on day one. I noticed on day... three. I'm sorry I was slow.
 
 **HENRY**
 (smiling)
-You noticed.
+That's okay. You got there.
 
 **HOLMES**
 (grinning)
@@ -1328,7 +1370,7 @@ harmonica phrase. A single tiny wag of a tail.*
 | Act Four: The howl | 12:00-14:30 | Clue 2 (wobble and netting) |
 | Act Five: The kitchen | 14:30-16:30 | Twins' information, the third stair |
 | Act Six: The den | 16:30-18:30 | Clue 3; Zaid and Moony |
-| Act Seven: The reveal | 18:30-20:00 | Jasper, Beryl, the meadow |
+| Act Seven: The reveal | 18:30-20:00 | Beryl and Jasper's private scene, the confession, the meadow |
 | Act Eight: Lesson | 20:00-20:30 | Butterfly on Moony's head |
 | Recap | 20:30-22:00 | "How Holmes Figured It Out" |
 
@@ -1355,18 +1397,16 @@ harmonica phrase. A single tiny wag of a tail.*
 | Jasper's confession | Campfire | Beryl speaks first and gently, no one laughs, Henry offers to see the butterfly |
 | Zaid in the den | Stone Circle | Lantern-lit, with a friend, never in danger |
 
-## Questions for the producer
+## Producer notes applied (draft 2)
 
-1. **Is Holmes's turn toward kindness ("That's... sad, isn't it?") the right size?** She
-   goes from missing Henry's feelings to noticing them in one scene. The bible says she
-   keeps missing feelings, so I made her notice in small steps and forget again between
-   episodes. Do you want her more oblivious in the pilot?
-2. **Beryl speaks at the reveal.** It gives her the pilot's emotional peak, but it means
-   she exposes her brother in public. I softened it ("I'm sorry, Jasper. But it wasn't
-   fair."). Do you want a private moment instead, with Beryl talking to Jasper first?
-3. **Moony's collar tag** (the Baskerville link) is not used in this draft. I left it for a
-   later episode.
-4. **The theme song** isn't written; the title sting is a short harmonica phrase.
-5. **Holmes's "I'm glad it's pretty. For you."** is the most "told, not shown" line. Keep it?
-6. **Length:** this draft is dense. A read-aloud timing will show if it needs trimming
-   (the kitchen scene is the first thing I'd cut).
+1. **Holmes is more oblivious.** Watson comforts Henry in the cabin (the gold star on his hat),
+   and Holmes is busy with a bootlace. She misses that Henry is scared at the recap until
+   Watson tells her. Her growth is one honest line at the end: "I noticed on day... three."
+2. **Beryl speaks to Jasper privately first.** New scene on Gorse Cabin's back steps. Jasper
+   chooses to confess himself, before Holmes can name him, with Beryl beside him. Holmes's
+   "I was about to say that" is the gag.
+3. **Cut:** Holmes's "I'm glad it's pretty. For you."
+4. **Kitchen scene trimmed** (the toastie exchange and some repetition). Kept, because it
+   carries Minh's expertise and the "small person in a floppy coat" clue to Zaid.
+5. **Moony's collar tag** is left for a later episode.
+6. **Theme song** is still unwritten; the title sting is a short harmonica phrase.
