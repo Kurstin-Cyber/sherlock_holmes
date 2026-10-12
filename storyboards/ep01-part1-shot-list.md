@@ -1,6 +1,6 @@
 # Pilot Part 1: Shot List and Storyboard Panels
 
-*Stage 5 · Draft 1 for producer approval · "The Hound Comes Home" Part 1 ("The Legend"), target 11:00*
+*Stage 5 · Approved with producer notes · "The Hound Comes Home" Part 1 ("The Legend"), target 11:00*
 
 Script: `scripts/ep01-the-hound-comes-home.md`. Rules: `shot-language-guide.md`.
 
