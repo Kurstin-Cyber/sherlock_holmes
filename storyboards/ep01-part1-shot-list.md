@@ -150,7 +150,7 @@ Script: `scripts/ep01-the-hound-comes-home.md`. Rules: `shot-language-guide.md`.
 | P1-87 | CU | low angle | Holmes crouches. Her eyes dart. She counts, tapping each print. | "Big. Big. Big. Big. All the same." | 5s |
 | P1-88 | CU | static | Henry, small voice. | "Is that bad?" | 2s |
 | P1-89 | MS | static | Holmes places her hand next to one print, then the next, then the next. A cartoon "measuring" ruler sketch. | "Real paws wobble. These don't." | 6s |
-| P1-90 | CU | static | CLUE 1, FIRST SHOWING: Close on two prints side by side, identical, evenly spaced, neat green fuzz at the edge. Hold 1.5 s. | Silence | 3s |
+| P1-90 | CU | static | CLUE 1, FIRST SHOWING, **Frame C1**: Close on two prints side by side, identical, evenly spaced, neat green fuzz at the edge. Hold 1.5 s. | Silence | 3s |
 | P1-91 | CU | push-in | Slow push-in. Chime. Sparkle. Golden outline draws around both prints. | [CLUE ALERT #1, 1st] Chime | 4s |
 | P1-92 | MS | static | Holmes, thoughtful. | "Same size. Same spacing. Same fuzz of paint at the edge." | 5s |
 | P1-93 | MS | static | Watson, writing. | "So, they're... stamped?" "Maybe." | 3s |
