@@ -24,8 +24,8 @@ mystery every episode using observation and logic.
 - [x] **Stage 1: Series concept and story bible** (`bible/`)
 - [x] **Stage 2: Character profiles** (`characters/`; approved)
 - [x] **Stage 3: Season arc and episode list** (`season/`; approved)
-- [~] **Stage 4: Individual scripts** (`scripts/`; pilot and episodes 2 to 10 approved, episodes 11 to 13 drafted; all 13 scripts exist)
-- [ ] **Stage 5: Storyboards and shot lists**
+- [x] **Stage 4: Individual scripts** (`scripts/`; all 13 scripts approved)
+- [~] **Stage 5: Storyboards and shot lists** (`storyboards/`; guide, timing report and pilot Part 1 drafted)
 
 ## Repository map
 
@@ -45,10 +45,13 @@ season/
   episode-list.md          Episodes 2 to 13 as one-page cards
 scripts/
   README.md                Script format, writing rules, status tracker
-  ep01 to ep13             Pilot and episodes 2 to 10 (approved), episodes 11 to 13 (draft 1)
+  ep01 to ep13             All 13 scripts (approved)
+storyboards/
+  README.md                How to read the shot lists; status tracker
+  shot-language-guide.md   Series visual grammar: camera, light, Clue Alert, recap, sound, safety
+  timing-report.md         Estimated running time of all 13 scripts, with trim and pad plans
+  ep01-part1-shot-list.md  Pilot Part 1: 141 panels timed to 11:00
 ```
-
-Later stages will add `storyboards/`.
 
 ## How we work
 

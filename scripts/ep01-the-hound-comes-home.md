@@ -395,7 +395,7 @@ Green. Bright green. And sticky!
 
 *She touches it, then holds up a finger. It glows faintly.*
 
-**[CLUE ALERT, 1st look at glow paint]** *Soft chime. A warm sparkle on Holmes's fingertip.*
+**[SPARKLE ONLY]** *A warm sparkle on Holmes's fingertip. No chime: the chime is reserved for numbered clues.*
 
 *A trail of glowing GREEN PAW PRINTS runs from the step down the Boardwalk Trail, toward the
 purple hills.*
