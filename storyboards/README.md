@@ -39,7 +39,7 @@ Cues from the scripts are kept: `[CLUE ALERT #n, 1st/2nd]`, `[CHANT]`, `[JOURNAL
 | Timing report | Approved with notes (estimates only; real timing comes from the animatic) |
 | Pilot Part 1 shot list | Approved |
 | Pilot Part 2 shot list | Approved |
-| Episodes 2, 3, 4 shot lists | Draft 1, awaiting producer notes |
+| Episodes 2, 3, 4 shot lists | Approved |
 | Episodes 5 to 13 | Not started |
 
 ## What this stage does not do

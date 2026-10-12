@@ -1,6 +1,6 @@
 # Episode 3: The Light in the Attic Window: Shot List and Storyboard Panels
 
-*Stage 5 · Draft 1 for producer approval · target 11:00 · timing-report padding plan applied*
+*Stage 5 · Approved · target 11:00 · timing-report padding plan applied*
 
 Script: `scripts/ep03-the-light-in-the-attic-window.md`. Rules: `shot-language-guide.md`.
 
