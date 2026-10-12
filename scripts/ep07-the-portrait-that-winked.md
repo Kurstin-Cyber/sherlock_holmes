@@ -93,7 +93,7 @@ bright daytime, and the follow-on beat is Henry pulling his hat over his eyes, a
 
 ### INT. HEATHER CABIN. DAY.
 
-*Fairy lights, maps, the wall chart "THINGS THAT GO BUMP." IMANI HOLMES (cap, glasses, raincoat)
+*Fairy lights, maps, the wall chart "THINGS THAT GO BUMP." KURSTIN HOLMES (cap, glasses, raincoat)
 is perched on her desk with a magnifier, studying a leaf. MATEO WATSON (teal hoodie, orange chair)
 is drawing at the other desk. Henry stands in the doorway, hat low, voice small.*
 

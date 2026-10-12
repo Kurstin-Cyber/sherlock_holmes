@@ -1,10 +1,10 @@
-# Imani Holmes
+# Kurstin Holmes
 
 *Camp detective · Doyle's Sherlock Holmes · APPROVED*
 
 | | |
 |---|---|
-| **Name** | Imani Holmes (everyone calls her "Holmes") |
+| **Name** | Kurstin Holmes (everyone calls her "Holmes") |
 | **Age** | 10 |
 | **Heritage** | African American |
 | **Cabin** | Heather Cabin, with Watson |
@@ -59,7 +59,7 @@ questions to herself out loud. When she's wrong, her voice gets small and fast.
 
 - Raised by her grandmother, **Nana Odessa**, who writes her letters full of proverbs and
   small riddles. Letters arrive by post; Nana is heard, never seen on screen.
-- Nana's sweet potato biscuits and peach cobbler are Imani's favourite foods. She trades
+- Nana's sweet potato biscuits and peach cobbler are Kurstin's favourite foods. She trades
   sweet potato biscuits for clues in the kitchen.
 - She says "Nana says..." the way other kids say "My teacher says...". Nana's sayings are
   short and kind ("A quiet question can open a loud door").

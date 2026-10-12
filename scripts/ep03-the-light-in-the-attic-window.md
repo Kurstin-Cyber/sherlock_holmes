@@ -79,7 +79,7 @@ It's a lamp!
 ### INT. HEATHER CABIN. NIGHT.
 
 *Fairy lights. A shelf of jars. A big paper chart on the wall: "THINGS THAT GO BUMP AND
-WHAT THEY REALLY ARE" in IMANI HOLMES's tidy handwriting. It has only four entries.*
+WHAT THEY REALLY ARE" in KURSTIN HOLMES's tidy handwriting. It has only four entries.*
 
 *Holmes is pacing in her mustard raincoat. MATEO WATSON is at his desk with the journal.
 Henry sits cross-legged on the rug, holding a mug.*

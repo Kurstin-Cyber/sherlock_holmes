@@ -82,7 +82,7 @@ Is there a Hound?
 
 ### INT. HEATHER CABIN. MORNING.
 
-*Fairy lights, the wall chart, a pile of Camp Day ribbons on the desk. IMANI HOLMES (cap with flaps
+*Fairy lights, the wall chart, a pile of Camp Day ribbons on the desk. KURSTIN HOLMES (cap with flaps
 tied up, golden-blonde loc buns poking out, glasses, raincoat, a gold Camp Day rosette pinned on
 top) is dressing her cap with extra care. MATEO WATSON (teal hoodie with his own rosette,
 orange chair decorated with ribbons) is at his desk, writing a very long list.*

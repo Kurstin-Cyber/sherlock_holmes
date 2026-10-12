@@ -71,7 +71,7 @@ within seconds.
 
 ### INT. THE HALL, BOOT ROOM. MOMENTS LATER.
 
-*A little crowd has gathered: IMANI HOLMES (cap with flaps tied up, golden-blonde loc buns
+*A little crowd has gathered: KURSTIN HOLMES (cap with flaps tied up, golden-blonde loc buns
 poking out, glasses, raincoat), MATEO WATSON (teal hoodie, orange chair), HENRY BASKERVILLE
 (plaid, star-stickered hat), Anjali and Tavita. Everyone is crouched around the basket,
 whispering.*

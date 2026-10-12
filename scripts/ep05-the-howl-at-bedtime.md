@@ -87,7 +87,7 @@ in the air, one camper asleep face-down in a bowl.*
 *LINH and MINH BARRYMORE (matching aprons, her yellow headband, his orange hearing aids) carry a
 pot between them. Linh yawns loudly. Minh blinks slowly.*
 
-*IMANI HOLMES (cap, glasses, raincoat) and MATEO WATSON (teal hoodie, orange chair) arrive with
+*KURSTIN HOLMES (cap, glasses, raincoat) and MATEO WATSON (teal hoodie, orange chair) arrive with
 the journal. Holmes is wide awake, and glowing.*
 
 **HOLMES**

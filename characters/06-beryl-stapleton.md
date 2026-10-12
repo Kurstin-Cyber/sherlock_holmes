@@ -66,7 +66,7 @@ only suspect.
 ## Relationships
 
 - **Jasper:** her big brother. She admires him; she won't lie for him.
-- **Holmes:** her hero. Imani sees her details; Beryl sees Imani's feelings.
+- **Holmes:** her hero. Kurstin sees her details; Beryl sees Kurstin's feelings.
 - **Watson:** two quiet souls who understand each other without words.
 - **Zaid:** the other shy one; they sketch together.
 

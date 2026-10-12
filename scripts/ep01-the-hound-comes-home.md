@@ -259,7 +259,7 @@ curse, no harm, no danger in the telling.
 shelf of jars (a button, a bottle cap, a leaf). On the wall: a hand-drawn sign reading
 "HOLMES AND WATSON, DETECTIVES. KNOCK FIRST."*
 
-*IMANI HOLMES (10, small, wiry, round gold-rimmed glasses, green tweed deerstalker-style cap
+*KURSTIN HOLMES (10, small, wiry, round gold-rimmed glasses, green tweed deerstalker-style cap
 with its flaps tied up, golden-blonde locs in two buns poking out at the sides, mustard-yellow raincoat) is crouched on the floor with a magnifying
 glass, examining a button.*
 

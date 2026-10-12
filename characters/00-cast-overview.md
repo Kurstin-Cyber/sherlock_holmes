@@ -8,7 +8,7 @@
 
 | # | Character | Age | Camp role | Doyle role | Catchphrase |
 |---|---|---|---|---|---|
-| 1 | **Imani Holmes** | 10 | Camp detective | Sherlock Holmes | "Curious... very curious!" |
+| 1 | **Kurstin Holmes** | 10 | Camp detective | Sherlock Holmes | "Curious... very curious!" |
 | 2 | **Mateo Watson** | 10 | Best friend, journal keeper | Dr. Watson | "Writing that down!" |
 | 3 | **Henry Baskerville** | 9 | New camper, founding family | Sir Henry Baskerville | "Back home, we'd..." |
 | 4 | **Anjali Mortimer** | 11 | Camp storyteller | Dr. Mortimer | "And now... the TRUE story!" |
@@ -24,7 +24,7 @@ them without feeling talked down to.
 
 ## Profiles
 
-1. [Imani Holmes](01-holmes.md)
+1. [Kurstin Holmes](01-holmes.md)
 2. [Mateo Watson](02-watson.md)
 3. [Henry Baskerville](03-henry-baskerville.md)
 4. [Anjali Mortimer](04-mortimer.md)
@@ -60,7 +60,7 @@ or a label. Nobody explains their background to the camera.
 
 | Character | Heritage (shown through name, food, family) | Ability / look | Body type | Family structure |
 |---|---|---|---|---|
-| Imani Holmes | African American | Round glasses, golden-blonde locs | Small, wiry | Raised by her grandmother, Nana Odessa |
+| Kurstin Holmes | African American | Round glasses, golden-blonde locs | Small, wiry | Raised by her grandmother, Nana Odessa |
 | Mateo Watson | Mexican-American | Wheelchair user | Sturdy upper body, broad smile | Two dads |
 | Henry Baskerville | Japanese-Canadian and Scottish | Freckles, curly auburn hair | Very tall and gangly | Single dad and a baby sister |
 | Anjali Mortimer | Indian (Tamil) | Big curly hair | Round, plus-size | Large extended family, lives with an aunt and uncle |
@@ -78,9 +78,9 @@ Checks:
 - Ability and look: one wheelchair user (Watson), one hearing-aid wearer (Minh), glasses
   (Holmes), plus a range of body types from the smallest camper (Zaid) to the tallest
   (Henry).
-- Gender split: four girls (Imani, Anjali, Beryl, Linh) and six boys (Mateo, Henry,
+- Gender split: four girls (Kurstin, Anjali, Beryl, Linh) and six boys (Mateo, Henry,
   Jasper, Minh, Zaid, Tavita). Girls lead the mystery (Holmes) and the story (Mortimer).
-- Family structures: grandparent-raised (Imani, the twins), two dads, single dad, two
+- Family structures: grandparent-raised (Kurstin, the twins), two dads, single dad, two
   households, extended family, single mum with a grandmother, and a big sibling group.
 
 ## Group dynamics
@@ -124,12 +124,12 @@ Both are small and don't change the plot:
 Please approve, change or swap each of these. Anything marked ⭐ changes a Doyle element
 and needs your say-so.
 
-1. ⭐ **Holmes as a girl (Imani).** Doyle's Holmes is male. Proposed: girl, with Watson a boy,
+1. ⭐ **Holmes as a girl (Kurstin).** Doyle's Holmes is male. Proposed: girl, with Watson a boy,
    for a mixed lead pair.
 2. ⭐ **Mortimer as a girl (Anjali), Frankland as a boy (Tavita), Selden as a boy (Zaid).**
 3. ⭐ **Beryl and Jasper as siblings,** as in Doyle. We drop the "secret wife" twist entirely.
 4. ⭐ **Selden is 6, not a teen,** and is a shy camper, not an escaped convict.
-5. **First names.** Imani, Mateo, Henry, Anjali, Jasper, Beryl, Linh, Minh, Zaid, Tavita.
+5. **First names.** Kurstin, Mateo, Henry, Anjali, Jasper, Beryl, Linh, Minh, Zaid, Tavita.
 6. **Moony** as the Hound's name, given by Zaid.
 7. **Ages 6 to 11.** The leads are 10.
 8. **Accessible park additions** (Boardwalk Trail, Ramp).

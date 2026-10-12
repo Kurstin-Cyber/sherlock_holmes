@@ -92,7 +92,7 @@ with daisies. A little flag on a pole. A pulley with a rope and a bucket. A pain
 rail with a pair of binoculars on a strap. His chair bell is clipped to the railing. He's
 quiet and happy, in his element.*
 
-*IMANI HOLMES (cap, glasses, raincoat) arrives, a little out of breath. HENRY BASKERVILLE
+*KURSTIN HOLMES (cap, glasses, raincoat) arrives, a little out of breath. HENRY BASKERVILLE
 (plaid, star-stickered hat) follows, ducking under the flag.*
 
 **HOLMES**

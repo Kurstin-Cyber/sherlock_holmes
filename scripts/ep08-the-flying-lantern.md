@@ -84,7 +84,7 @@ That's because it's a light.
 
 ### INT. HEATHER CABIN. EVENING.
 
-*Fairy lights, maps, the wall chart "THINGS THAT GO BUMP." IMANI HOLMES (cap, glasses, raincoat)
+*Fairy lights, maps, the wall chart "THINGS THAT GO BUMP." KURSTIN HOLMES (cap, glasses, raincoat)
 stands on her bed with her nose pressed to the window, magnifier up. MATEO WATSON sits at his
 desk with the journal open and a pencil behind his ear. He is drawing, very small and neatly,
 and looks up at the window every few seconds.*

@@ -72,7 +72,7 @@ He copied me.
 
 ### INT. HEATHER CABIN. EVENING.
 
-*Fairy lights. The wall chart. IMANI HOLMES (cap, glasses, raincoat) is pacing, magnifier raised.
+*Fairy lights. The wall chart. KURSTIN HOLMES (cap, glasses, raincoat) is pacing, magnifier raised.
 MATEO WATSON is at his desk, drawing the stone circle with a long, golden shadow stretched over it.
 HENRY sits on the floor. ANJALI is sitting upside down on the beanbag, her cape draped over her
 face, narrating with her hands.*

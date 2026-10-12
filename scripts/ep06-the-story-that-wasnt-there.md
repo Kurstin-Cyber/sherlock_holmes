@@ -78,7 +78,7 @@ It's the Hound!
 
 ### INT. HEATHER CABIN. NIGHT.
 
-*Fairy lights. IMANI HOLMES (cap, glasses) is writing a line on her wall chart. MATEO WATSON is at
+*Fairy lights. KURSTIN HOLMES (cap, glasses) is writing a line on her wall chart. MATEO WATSON is at
 his desk. A knock at the door. Holmes holds up one finger and finishes her word, then opens it.*
 
 *Anjali stands there, cape drooping, scarf askew. Her eyes are red-rimmed. She looks smaller

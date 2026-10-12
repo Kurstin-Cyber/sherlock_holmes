@@ -139,3 +139,8 @@ Stage 2 proposes an answer to most items below. See `characters/00-cast-overview
   Terrace, with a gentle one-foot tumble onto cushions. Approved and applied to the script, the
   outline and both shot lists.
 - [x] **Split-screen teaching beat** (stamped print beside real print) as an approved device.
+
+## Producer changes
+
+- [x] **Holmes's first name** is now **Kurstin** (it was Imani). Updated in the cast overview, her
+  profile, Beryl's profile and every script. The shot lists refer to her only as "Holmes".

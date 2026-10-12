@@ -86,7 +86,7 @@ dented brass and the smudged glass. Under the table, Moony's tail thumps again.*
 
 ### INT. HEATHER CABIN. NIGHT.
 
-*Fairy lights. The wall chart. IMANI HOLMES (cap with flaps tied up, golden-blonde loc buns
+*Fairy lights. The wall chart. KURSTIN HOLMES (cap with flaps tied up, golden-blonde loc buns
 poking out, glasses, raincoat) sits on her bed with her feet crossed, eating toast. MATEO WATSON
 sits at his desk, not writing. His journal is open, but his pencil hovers above the page.*
 

@@ -82,7 +82,7 @@ It is NOT the Hound. The signs are correct.
 
 ### EXT. THE MAIN FORK. MORNING.
 
-*The tall signpost stands at the fork, bright in the morning sun. IMANI HOLMES (cap, glasses,
+*The tall signpost stands at the fork, bright in the morning sun. KURSTIN HOLMES (cap, glasses,
 raincoat) stands before it with her magnifier. MATEO WATSON is beside her, journal on his lap.
 Jasper stands very straight a few feet away, clipboard clutched to his chest. Beryl hovers
 behind him, twirling her plait.*
