@@ -40,7 +40,7 @@ Cues from the scripts are kept: `[CLUE ALERT #n, 1st/2nd]`, `[CHANT]`, `[JOURNAL
 | Pilot Part 1 shot list | Approved |
 | Pilot Part 2 shot list | Approved |
 | Episodes 2, 3, 4 shot lists | Approved |
-| Episodes 5, 6, 7 shot lists | Draft 1, awaiting producer notes |
+| Episodes 5, 6, 7 shot lists | Approved |
 | Episodes 8 to 13 | Not started |
 
 ## What this stage does not do
