@@ -23,7 +23,10 @@ pilot outline in `season/pilot-outline.md`.
 | 2 | The Case of the Missing Sandwiches | `ep02-the-case-of-the-missing-sandwiches.md` | Draft 1, approved |
 | 3 | The Light in the Attic Window | `ep03-the-light-in-the-attic-window.md` | Draft 1, approved |
 | 4 | The Boots That Vanished | `ep04-the-boots-that-vanished.md` | Draft 1, approved |
-| 5 to 13 | See `season/episode-list.md` | Not started | Next batch after notes on episodes 2 to 4 |
+| 5 | The Howl at Bedtime | `ep05-the-howl-at-bedtime.md` | Draft 1, awaiting producer notes |
+| 6 | The Story That Wasn't There | `ep06-the-story-that-wasnt-there.md` | Draft 1, awaiting producer notes |
+| 7 | The Portrait That Winked | `ep07-the-portrait-that-winked.md` | Draft 1, awaiting producer notes |
+| 8 to 13 | See `season/episode-list.md` | Not started | Next batch (8 to 10) after notes on episodes 5 to 7 |
 
 ## Writing rules
 
@@ -42,6 +45,9 @@ pilot outline in `season/pilot-outline.md`.
 - **Anjali's one-line reminder** opens every episode after the pilot: "Remember! The Hound is
   big, he's shaggy, and he wants a snack!"
 - **Watson's journal day numbers** follow the suggested order (episode 2 = day 31, episode 3 =
-  day 36, episode 4 = day 41, and so on, five days apart). They never matter to the plot.
+  day 36, episode 4 = day 41, episode 5 = day 46, episode 6 = day 51, episode 7 = day 56,
+  and so on, five days apart). They never matter to the plot.
 - **Holmes's "THINGS THAT GO BUMP" chart** gains one line per episode (optional gag).
 - **Tavita's "Never mind"** appears once an episode, twice at most.
+- **Smells are shown as coloured ribbons** with little icons inside (lilac with paint pots in
+  episode 6, golden with biscuits in episode 7). Sounds are shown as gold or yellow ripples.
