@@ -56,7 +56,7 @@ Used for pacing and variety only, not as a continuing story.
 - **"It's the Hound!"** whispered in every cold open, by a different camper each time
 - **Tavita's backwards telescope** (once an episode)
 - **The third stair** squeaks (the twins; a different thing creaks in each episode)
-- **Holmes's puff-puff trades** with the twins for kitchen intelligence
+- **Holmes's sweet-potato-biscuit trades** with the twins for kitchen intelligence
 - **Watson's bell:** once for nervous, twice for happy, three times for "I solved it!"
 - **Moony's sneeze** at heather, hats or the wrong sandwich
 - **"Back home, we'd..."** with Henry's funny home comparison

@@ -60,7 +60,7 @@ or a label. Nobody explains their background to the camera.
 
 | Character | Heritage (shown through name, food, family) | Ability / look | Body type | Family structure |
 |---|---|---|---|---|
-| Imani Holmes | Nigerian-British | Round glasses | Small, wiry | Raised by her grandmother, Nana Ngozi |
+| Imani Holmes | African American | Round glasses, golden-blonde locs | Small, wiry | Raised by her grandmother, Nana Odessa |
 | Mateo Watson | Mexican-American | Wheelchair user | Sturdy upper body, broad smile | Two dads |
 | Henry Baskerville | Japanese-Canadian and Scottish | Freckles, curly auburn hair | Very tall and gangly | Single dad and a baby sister |
 | Anjali Mortimer | Indian (Tamil) | Big curly hair | Round, plus-size | Large extended family, lives with an aunt and uncle |
@@ -148,7 +148,7 @@ The brief says every character is a child. To keep this working, I propose:
 - A camp is always "run" by kids and storybook logic. There is a camp bell, a camp rota and
   a camp "Head Cabin" nobody sees. Adults exist only as **off-screen voices or notes**
   (a note under a door, a bell, a voice from far away, "the Camp Chief says...").
-- Family appear in photos, letters and phone calls where it matters (Nana Ngozi's letters
+- Family appear in photos, letters and phone calls where it matters (Nana Odessa's letters
   to Holmes, Henry's dad's video call). They are voices and pictures, not characters.
 
 Confirm or change.

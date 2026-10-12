@@ -75,7 +75,7 @@ Stage 2 proposes an answer to most items below. See `characters/00-cast-overview
   cabin-mates. Confirm.
 - [ ] **Accessibility additions.** The Boardwalk Trail and the Hall ramp are new world
   elements. Confirm, then fold into `bible/series-concept.md`.
-- [ ] **Adults.** Voices, notes and photos only (Nana Ngozi, the dads, Grandpa Barrymore and
+- [ ] **Adults.** Voices, notes and photos only (Nana Odessa, the dads, Grandpa Barrymore and
   Bà Ngoại, Camp Chief). Confirm.
 - [ ] **Consultants.** Sign language (Minh and Linh), and native-speaker checks for the
   Welsh, Samoan, Vietnamese, Irish, Arabic, Tamil and Japanese words and foods.

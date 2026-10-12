@@ -74,7 +74,7 @@ BASKERVILLE." A tiny wobbly harmonica "woo."*
 
 ### INT. HEATHER CABIN. DAY.
 
-*Fairy lights, maps, a shelf of jars. IMANI HOLMES (cap with two puffs, gold glasses,
+*Fairy lights, maps, a shelf of jars. IMANI HOLMES (cap with flaps tied up, golden-blonde loc buns, gold glasses,
 mustard raincoat) is on all fours with a magnifier. MATEO WATSON (teal hoodie, orange
 wheelchair with stickers) is at the desk, drawing.*
 

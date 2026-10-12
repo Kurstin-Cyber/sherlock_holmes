@@ -6,7 +6,7 @@
 |---|---|
 | **Name** | Imani Holmes (everyone calls her "Holmes") |
 | **Age** | 10 |
-| **Heritage** | Nigerian-British |
+| **Heritage** | African American |
 | **Cabin** | Heather Cabin, with Watson |
 | **Role** | Self-appointed camp detective; solves the mystery |
 | **Catchphrase** | "Curious... very curious!" (taps her magnifier twice) |
@@ -16,11 +16,13 @@
 
 - Small and wiry, always on her toes, leaning in to look at things.
 - Round gold-rimmed glasses, and a green tweed deerstalker-style cap (a nod to the
-  original). Two natural hair puffs poke out on either side of the cap.
+  original) with its two ear flaps tied up on top, like a pair of little pointed ears.
+- Golden-blonde locs, worn up in two thick loc buns that poke out on either side of the cap.
 - Mustard-yellow raincoat over a plain shirt and shorts, sturdy brown boots.
 - A magnifying glass on a string around her neck. It frames the golden magnifier effect.
 - **Signature colour:** mustard yellow and tweed green.
-- **Silhouette:** a cap with two puffs, and a magnifier. Instantly readable in shadow.
+- **Silhouette:** a cap with two pointed flaps on top, a loc bun on each side, and a
+  magnifier. Instantly readable in shadow.
 
 ## Personality
 
@@ -55,10 +57,10 @@ questions to herself out loud. When she's wrong, her voice gets small and fast.
 
 ## Family and culture
 
-- Raised by her grandmother, **Nana Ngozi**, who writes her letters full of proverbs and
+- Raised by her grandmother, **Nana Odessa**, who writes her letters full of proverbs and
   small riddles. Letters arrive by post; Nana is heard, never seen on screen.
-- Nana's jollof rice and puff-puff are Imani's favourite foods. She trades puff-puff for
-  clues in the kitchen.
+- Nana's sweet potato biscuits and peach cobbler are Imani's favourite foods. She trades
+  sweet potato biscuits for clues in the kitchen.
 - She says "Nana says..." the way other kids say "My teacher says...". Nana's sayings are
   short and kind ("A quiet question can open a loud door").
 
@@ -95,7 +97,7 @@ learned it; she always starts the next one a bit forgetful, in a loving way.
 
 ## Consistency checklist
 
-- [ ] Cap, glasses, puffs and magnifier always in frame
+- [ ] Cap (flaps tied up), golden-blonde loc buns, glasses and magnifier always in frame
 - [ ] "Curious... very curious!" once or twice per episode
 - [ ] The chant at least once when solving, once in the recap
 - [ ] A clue she notices first, and a feeling she misses

@@ -327,20 +327,20 @@ shadow.*
 
 ### EXT. THE STONE CIRCLE. CONTINUOUS.
 
-*Holmes steps out of the way, lifts both hands, and wiggles her fingers beside her cap. The
-shadow-hound's two pointed ears wiggle.*
+*Holmes steps out of the way and tugs, very gently, on the tied-up flaps on top of her cap.
+The shadow-hound's two pointed ears wiggle.*
 
 *She stops. The ears stop. She looks at her own shadow. She looks at the shadow-hound's
 head.*
 
 **HOLMES**
 (a gasp)
-They're my puffs.
+They're my cap flaps.
 
-*She yanks her cap off. Her two round hair puffs are sticking out on each side of her head.
-The ears on the shadow are two round puffs too.*
+*She unties one flap. It flops down beside her ear. On the shadow-hound, one pointed ear flops
+down too. She ties it up again. The ear stands up.*
 
-*A tiny pause. The shadow-hound's ears have gone round.*
+*A tiny pause.*
 
 **HOLMES (CONT'D)**
 (wondering)
@@ -375,7 +375,7 @@ Then... I'm the tail.
 It's us. It's all of us. We made a hound.
 
 **[CLUE ALERT #3, 1st]** *Chime. Sparkle. The glowing outline traces each person's shadow-part
-in turn: puffs, telescope, curls, swinging arm.*
+in turn: cap flaps, telescope, curls, swinging arm.*
 
 **ANIMATOR:** This is the moment of delight. Cut quickly between each kid and their matching
 part of the shadow-hound, then wide to show all five kids, one big golden hound. Warm
@@ -472,7 +472,7 @@ the culprit. He is shown after the case is solved.
 ### INT. HEATHER CABIN. NIGHT.
 
 *Fairy lights. The wall chart. Holmes and Watson on the floor with the journal. Holmes is
-wearing her cap with the puffs showing. Watson holds up a shadow-puppet hound on the wall.*
+wearing her cap with the flaps tied up. Watson holds up a shadow-puppet hound on the wall.*
 
 **WATSON**
 (reading)
@@ -512,12 +512,12 @@ telescope. A shadow would.
 
 **CLUE THREE: THE PARTS MATCH**
 
-*The four matching parts replay: puffs, telescope, curls, swinging arm.*
+*The four matching parts replay: cap flaps, telescope, curls, swinging arm.*
 
 **[CLUE ALERT #3, 2nd]** *Chime. Sparkle.*
 
 **HOLMES (V.O.)**
-Two round ears. A long snout. A shaggy mane. A wagging tail. Every piece of the hound was one
+Two pointed ears. A long snout. A shaggy mane. A wagging tail. Every piece of the hound was one
 of us.
 
 *A gold star, a heart, and a doodle of five kids standing in a hound shape.*
@@ -557,7 +557,7 @@ Curious... very curious!
 | Cold open | 0:00-1:00 | Anjali's reminder; the shadow-hound; Tavita: "He copied me." |
 | Act One | 1:00-4:00 | Anjali's description; the noon visit; Clue 1 (low sun) |
 | Act Two | 4:00-8:00 | Red herring (Duchess); sunset watch; Clue 2 (it copies us) |
-| Act Three | 8:00-9:30 | Holmes finds her puffs; Clue 3 (parts match) |
+| Act Three | 8:00-9:30 | Holmes finds her cap flaps; Clue 3 (parts match) |
 | Act Four | 9:30 | Shadow animals; Duchess's round shadow; Moony and his shadow |
 | Recap | 9:30-11:00 | Three clues; "Look from another angle." |
 
@@ -570,7 +570,7 @@ scene in the timing pass.*
 |---|---|---|
 | **#1 Low sun only** | Act One, Watson's noon page (3:15) | Journal doodle (3:45), then the sunset stones (5:30) |
 | **#2 It copies us** | Act Two, Tavita's telescope (7:00) | Holmes's step test (7:45) |
-| **#3 Parts match** | Act Three, the puffs, nose, mane and tail (8:30) | Journal doodle (9:00) |
+| **#3 Parts match** | Act Three, the cap flaps, nose, mane and tail (8:30) | Journal doodle (9:00) |
 
 ## Complexity and logic check
 
@@ -590,9 +590,10 @@ scene in the timing pass.*
 
 ## Notes and questions for the producer
 
-1. **Holmes is "the ears."** Her two hair puffs form the hound's ears. It makes the reveal funny
-   and personal. I like it; does it risk reading as making fun of her hair? I wrote it as
-   delight, and she is the one who realises it, but please check.
+1. **Holmes is "the ears," but now with her cap flaps.** Her deerstalker cap's tied-up flaps
+   make the hound's pointed ears. In the first draft the ears were her hair puffs; with
+   Holmes's new look (golden-blonde locs) I moved the gag to the cap so her hair is never the
+   joke. Revert if you'd rather use the loc buns.
 2. **Duchess the sheep** is introduced here as a recurring background animal and appears again
    in episode 10. Add her to the bible?
 3. **Moony scared of his own shadow** adds to his list of fears (squirrels, wind, hats, ducks).

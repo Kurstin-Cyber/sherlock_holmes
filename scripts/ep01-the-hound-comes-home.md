@@ -258,8 +258,8 @@ curse, no harm, no danger in the telling.
 shelf of jars (a button, a bottle cap, a leaf). On the wall: a hand-drawn sign reading
 "HOLMES AND WATSON, DETECTIVES. KNOCK FIRST."*
 
-*IMANI HOLMES (10, small, wiry, round gold-rimmed glasses, green tweed cap with two hair
-puffs sticking out, mustard-yellow raincoat) is crouched on the floor with a magnifying
+*IMANI HOLMES (10, small, wiry, round gold-rimmed glasses, green tweed deerstalker-style cap
+with its flaps tied up, golden-blonde locs in two buns poking out at the sides, mustard-yellow raincoat) is crouched on the floor with a magnifying
 glass, examining a button.*
 
 *Watson rolls in, followed by Henry, who ducks under the doorframe.*
@@ -776,10 +776,10 @@ Linh! Minh! More cheese!
 (together, rolling eyes)
 Coming!
 
-*Holmes enters with a plate of puff-puff.*
+*Holmes enters with a plate of sweet potato biscuits.*
 
 **HOLMES**
-A trade. One plate of puff-puff for information.
+A trade. One plate of sweet potato biscuits for information.
 
 *The twins' eyes light up.*
 
