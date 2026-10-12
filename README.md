@@ -23,8 +23,8 @@ mystery every episode using observation and logic.
 
 - [x] **Stage 1: Series concept and story bible** (`bible/`)
 - [x] **Stage 2: Character profiles** (`characters/`; approved)
-- [~] **Stage 3: Season arc and episode list** (`season/`; drafted, awaiting producer approval)
-- [ ] **Stage 4: Individual scripts**
+- [x] **Stage 3: Season arc and episode list** (`season/`; approved)
+- [~] **Stage 4: Individual scripts** (`scripts/`; pilot draft 1 written, episodes 2 to 13 to follow)
 - [ ] **Stage 5: Storyboards and shot lists**
 
 ## Repository map
@@ -43,9 +43,12 @@ season/
   season-arc.md            Season shape, optional threads, balance tables, decisions to confirm
   pilot-outline.md         Pilot beat outline (22 min, two halves)
   episode-list.md          Episodes 2 to 13 as one-page cards
+scripts/
+  README.md                Script format, writing rules, status tracker
+  ep01-...md               Pilot script, draft 1
 ```
 
-Later stages will add `scripts/` and `storyboards/`.
+Later stages will add `storyboards/`.
 
 ## How we work
 

@@ -1,6 +1,6 @@
 # Episode 1 (Pilot): "The Hound Comes Home"
 
-*Stage 3 beat outline. DRAFT for producer approval. 22 minutes, in two 11-minute halves.*
+*Stage 3 beat outline. APPROVED. 22 minutes, in two 11-minute halves.*
 
 | | |
 |---|---|

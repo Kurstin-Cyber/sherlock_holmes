@@ -1,6 +1,6 @@
 # Season 1: Episode List
 
-*Stage 3. DRAFT for producer approval. The pilot is outlined in `pilot-outline.md`.*
+*Stage 3. APPROVED. The pilot is outlined in `pilot-outline.md`.*
 
 Every card follows the formula: one harmless mystery, **3 clues** (each shown twice),
 **1 red herring**, one lesson, Moony cleared, and a "How Holmes Figured It Out" recap.

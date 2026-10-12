@@ -1,6 +1,6 @@
 # Season 1: Arc and Structure
 
-*Stage 3. DRAFT for producer approval.*
+*Stage 3. APPROVED by the producer.*
 
 ## Shape of the season
 
