@@ -49,9 +49,9 @@ Stage 2 proposes an answer to most items below. See `characters/00-cast-overview
 
 ## Production
 
-- [ ] **Episode count** for Season 1 (for example 13, 20 or 26 episodes)? Pilot as one
-  11-minute episode, or a double-length 22-minute special?
-- [ ] **Recap length.** 1.5 minutes is generous for 3 clues. Keep it, or trim to about 1
+- [ ] **Episode count** for Season 1. Stage 3 proposes 13 (a 22-minute pilot special plus
+  12 episodes). Awaiting approval.
+- [ ] **Recap length.** (Pilot gets 1.5 minutes; confirm for 11-minute episodes.) 1.5 minutes is generous for 3 clues. Keep it, or trim to about 1
   minute and give the time to the investigation?
 - [ ] **2D or 3D.** Assumed stylized 3D with a storybook look. Confirm, unless 2D with 3D
   effects was meant.
@@ -84,3 +84,17 @@ Stage 2 proposes an answer to most items below. See `characters/00-cast-overview
 - [ ] **Moony's tag.** Should the old collar tag link him to the Baskerville legend (a
   Stage 3 pilot decision)?
 - [ ] **Jasper's harmonica.** Should the "howl" be his harmonica (a pilot clue)? Stage 3.
+
+## New from Stage 3
+
+- [ ] **Pilot as a 22-minute special** in two 11-minute halves. Confirm.
+- [ ] **Season length of 13.** Confirm.
+- [ ] **Optional threads** (Camp Day banner countdown, Moony's wink, Henry's little home).
+- [ ] **The Park Prize** is now a shared prize for the camp's best discovery, awarded at
+  Camp Day. Confirm.
+- [ ] **Silverwing Skipper** as the invented butterfly. Confirm the name.
+- [ ] **Episode 13 (Camp Day)** premise: visiting kids from Brambledown Camp.
+- [ ] **New background animals and extras:** Duchess the sheep, the mother duck and her
+  ducklings, the Brambledown visitors.
+- [ ] **Episode 11** deliberately breaks "Moony is innocent" once. Confirm.
+- [ ] **Doyle's candle-signal subplot** is cut from the pilot. Confirm.

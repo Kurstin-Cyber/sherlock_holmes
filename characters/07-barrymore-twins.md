@@ -1,6 +1,6 @@
 # Linh and Minh Barrymore
 
-*Kitchen-helper twins · Doyle's Mr. and Mrs. Barrymore · DRAFT for approval*
+*Kitchen-helper twins · Doyle's Mr. and Mrs. Barrymore · APPROVED*
 
 | | Linh | Minh |
 |---|---|---|

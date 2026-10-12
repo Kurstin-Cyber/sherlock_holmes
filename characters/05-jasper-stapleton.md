@@ -1,6 +1,6 @@
 # Jasper Stapleton
 
-*Nature Club president · Doyle's Jack Stapleton · pilot "villain" · DRAFT for approval*
+*Nature Club president · Doyle's Jack Stapleton · pilot "villain" · APPROVED*
 
 | | |
 |---|---|

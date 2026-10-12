@@ -1,6 +1,6 @@
 # Tavita Frankland
 
-*The telescope kid · Doyle's Mr. Frankland · DRAFT for approval*
+*The telescope kid · Doyle's Mr. Frankland · APPROVED*
 
 | | |
 |---|---|

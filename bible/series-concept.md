@@ -49,8 +49,9 @@ kitchen full of clattering pots, a creaky grand staircase, a portrait gallery of
 Baskervilles (including some very silly old hats), and an attic that nobody is *quite* sure
 about.
 
-Around the Hall: cabins, a campfire circle, a dock on a small pond, a craft barn and a
-flagpole.
+Around the Hall: cabins (mixed, named for plants: Heather, Bracken and Gorse), a campfire
+circle, a dock on a small pond, a craft barn and a flagpole. The Hall's front steps have a
+wide wooden ramp that the campers painted.
 
 ### Baskerville Park (the moor)
 
@@ -63,6 +64,7 @@ trails and wide open sky.
 | **The Stone Circle** | Old ruins of standing stones, mossy and mysterious | Secret meeting spot, echoes, hide-and-seek |
 | **The Grimpen Squelch** | A harmless, ankle-deep mud flat that goes *squelch* | Lost boots, muddy footprints, slapstick |
 | **Heather hills and trails** | Purple hills, paths and hollows | Chases, tracking, nature finds |
+| **The Boardwalk Trail** | A wooden path through the heather from the Hall to the Stone Circle and the foot of Tor Hill, with a flower painted on every post | Accessible route for everyone; Mateo's chair rolls it easily |
 
 ⚠️ The Grimpen Squelch is **never dangerous**. Nobody sinks. The worst that happens is a
 stuck boot and a funny noise.
@@ -156,3 +158,9 @@ When a scene might be too scary or too complex for ages 5-8, the script marks it
 - Palette: heather purples, moss greens, stone greys, golden sunsets, lantern ambers.
 - Clue moments are marked by a **sparkle** and a **soft chime** (see
   `episode-formula.md`).
+
+## Grown-ups
+
+Camp Baskerville is run by kids, in storybook logic. Adults exist only as **off-screen
+voices, letters, photos and notes** (Nana Ngozi's letters, Henry's video calls, Grandpa
+Barrymore and Bà Ngoại calling from the kitchen, a note from "the Camp Chief").

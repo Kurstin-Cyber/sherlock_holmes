@@ -1,6 +1,6 @@
 # Henry Baskerville
 
-*New camper from the founding family · Doyle's Sir Henry Baskerville · DRAFT for approval*
+*New camper from the founding family · Doyle's Sir Henry Baskerville · APPROVED*
 
 | | |
 |---|---|

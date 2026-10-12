@@ -1,6 +1,6 @@
 # Imani Holmes
 
-*Camp detective · Doyle's Sherlock Holmes · DRAFT for approval*
+*Camp detective · Doyle's Sherlock Holmes · APPROVED*
 
 | | |
 |---|---|

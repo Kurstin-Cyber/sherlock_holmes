@@ -1,6 +1,6 @@
 # Moony, the Hound
 
-*The friendly dog, secret camp mascot · Doyle's Hound · DRAFT for approval*
+*The friendly dog, secret camp mascot · Doyle's Hound · APPROVED*
 
 | | |
 |---|---|

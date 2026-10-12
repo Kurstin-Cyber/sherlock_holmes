@@ -1,6 +1,6 @@
 # Anjali Mortimer
 
-*Camp storyteller · Doyle's Dr. Mortimer · DRAFT for approval*
+*Camp storyteller · Doyle's Dr. Mortimer · APPROVED*
 
 | | |
 |---|---|

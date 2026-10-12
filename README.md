@@ -22,8 +22,8 @@ mystery every episode using observation and logic.
 ## Stage checklist
 
 - [x] **Stage 1: Series concept and story bible** (`bible/`)
-- [~] **Stage 2: Character profiles** (`characters/`; drafted, awaiting producer approval)
-- [ ] **Stage 3: Season arc and episode list**
+- [x] **Stage 2: Character profiles** (`characters/`; approved)
+- [~] **Stage 3: Season arc and episode list** (`season/`; drafted, awaiting producer approval)
 - [ ] **Stage 4: Individual scripts**
 - [ ] **Stage 5: Storyboards and shot lists**
 
@@ -39,9 +39,13 @@ bible/
 characters/
   00-cast-overview.md      Cast table, diversity map, team roles, consistency rules, decisions to confirm
   01 to 10                 One profile per character (look, personality, voice, family, role, rules)
+season/
+  season-arc.md            Season shape, optional threads, balance tables, decisions to confirm
+  pilot-outline.md         Pilot beat outline (22 min, two halves)
+  episode-list.md          Episodes 2 to 13 as one-page cards
 ```
 
-Later stages will add folders such as `season/`, `scripts/` and `storyboards/`.
+Later stages will add `scripts/` and `storyboards/`.
 
 ## How we work
 

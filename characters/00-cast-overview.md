@@ -1,8 +1,8 @@
 # Cast Overview (Stage 2)
 
-> **DRAFT for producer approval.** First names, genders, heritages, ages, looks and
-> catchphrases below are my proposals. Holmes, Watson and Baskerville are fixed; everything
-> else is open until you approve it. See "Decisions to confirm" at the bottom.
+> **APPROVED by the producer (Stage 2).** First names, genders, heritages, ages, looks and
+> catchphrases below are locked. Holmes, Watson and Baskerville were fixed; everything
+> else was approved as proposed. Changes now go through the producer.
 
 ## The cast at a glance
 

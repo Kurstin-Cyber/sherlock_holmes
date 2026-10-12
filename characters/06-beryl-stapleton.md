@@ -1,6 +1,6 @@
 # Beryl Stapleton
 
-*Nature Club vice-president · Doyle's Beryl Stapleton · DRAFT for approval*
+*Nature Club vice-president · Doyle's Beryl Stapleton · APPROVED*
 
 | | |
 |---|---|

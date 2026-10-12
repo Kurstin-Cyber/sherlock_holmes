@@ -1,6 +1,6 @@
 # Zaid Selden
 
-*Shy younger camper, the dog's secret friend · Doyle's Selden · DRAFT for approval*
+*Shy younger camper, the dog's secret friend · Doyle's Selden · APPROVED*
 
 | | |
 |---|---|

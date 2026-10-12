@@ -1,6 +1,6 @@
 # Mateo Watson
 
-*Best friend and case-journal keeper · Doyle's Dr. Watson · DRAFT for approval*
+*Best friend and case-journal keeper · Doyle's Dr. Watson · APPROVED*
 
 | | |
 |---|---|
