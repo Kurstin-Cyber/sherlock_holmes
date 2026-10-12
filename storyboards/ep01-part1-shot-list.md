@@ -17,7 +17,7 @@ Script: `scripts/ep01-the-hound-comes-home.md`. Rules: `shot-language-guide.md`.
 | P1-03 | MS | track | Henry steps through. His backpack bumps the gatepost. He bounces off and apologises to the gatepost. | CLANG. "Oh! Sorry!" | 5s |
 | P1-04 | WS | static | Over the hills a long gold ripple of musical notes drifts across the heather. | "Woo-oo-oo-oooo!" (harmonica, round and silly, 3 s) | 6s |
 | P1-05 | CU | static | Henry freezes. His hat slides down over his eyes. A pause. He peeks out from under the brim. | Silence, then a tiny "gulp" | 4s |
-| P1-06 | WS | pan | Up to the Hall roof ridge: Tavita sits with legs dangling, telescope aimed at the hills. | Music: playful pizzicato | 5s |
+| P1-06 | WS | pan | Up to the Hall's East Terrace, a stone balcony with a thick railing: Tavita sits on the bench with his feet up, telescope aimed at the hills. | Music: playful pizzicato | 5s |
 | P1-07 | MS | push-in | Tavita lowers the telescope, eyes wide, in a not-quite-whisper. | "It's the Hound!" | 4s |
 | P1-08 | WS | static | A dozen campers pop out of windows and doors like toast, gasping. | Gasps, a squeak of window sashes | 3s |
 | P1-09 | MS | static | Tavita swings the telescope round the right way. Looks. Looks again. | "It's big! It's hairy! It's... a bush." | 5s |

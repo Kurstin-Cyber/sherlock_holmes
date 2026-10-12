@@ -59,10 +59,11 @@ a very big puppy.
 
 **ANIMATOR:** The howl is gold: soft musical notes drift over the heather like fireflies.
 
-### EXT. THE HALL, ROOF. CONTINUOUS.
+### EXT. THE HALL, EAST TERRACE. CONTINUOUS.
 
-*TAVITA FRANKLAND (9, tall, strong, huge sun hat, brass telescope) is sitting on the roof
-ridge with his legs dangling. He points the telescope toward the hills.*
+*TAVITA FRANKLAND (9, tall, strong, huge sun hat, brass telescope) is sitting on the stone bench
+of the Hall's East Terrace, a flat stone balcony with a thick railing, with his feet up. He
+points the telescope toward the hills.*
 
 **TAVITA**
 (a loud whisper, which is not a whisper)
@@ -1330,9 +1331,10 @@ Case closed. Hound cleared.
 *He draws a heart in the margin of the page. DING-DING-DING goes his bell: three times, for
 "solved it."*
 
-### EXT. THE HALL, ROOF. NIGHT. A FINAL GAG.
+### EXT. THE HALL, EAST TERRACE. NIGHT. A FINAL GAG.
 
-*Tavita on the roof ridge, telescope in hand, sees Moony's big silhouette crossing the lawn.*
+*Tavita sits on a low crate on the East Terrace, telescope in hand. Lanterns glow. He sees
+Moony's big silhouette crossing the lawn below.*
 
 **TAVITA**
 (whispering)
@@ -1344,7 +1346,8 @@ It's the Hound!
 And that's Moony. And that's fine.
 
 *A tiny, wobbly "woo" drifts across the garden. The telescope, forgotten, tips backwards.
-Tavita falls off the roof ridge into a hay bale. WHUMP. He pops up, laughing.*
+Tavita topples gently off his crate onto a pile of cushions a foot below. WHUMP. He pops up,
+laughing.*
 
 **TAVITA (CONT'D)**
 Never mind!

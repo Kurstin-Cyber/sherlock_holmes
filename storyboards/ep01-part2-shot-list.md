@@ -1,6 +1,6 @@
 # Pilot Part 2: Shot List and Storyboard Panels
 
-*Stage 5 · Draft 1 for producer approval · "The Hound Comes Home" Part 2 ("The Hound"), target 11:00, trims from the timing report applied*
+*Stage 5 · Approved with producer notes · "The Hound Comes Home" Part 2 ("The Hound"), target 11:00, trims from the timing report applied*
 
 Script: `scripts/ep01-the-hound-comes-home.md`. Rules: `shot-language-guide.md`. Part 1: `ep01-part1-shot-list.md`.
 
@@ -302,20 +302,13 @@ dropped the script's separate memory-flash as the second showing and kept it as 
 - [x] Signing is not used in Part 2; Minh's floor-sense is shown by a gold ripple
 - [x] No shot looks down on Watson (the kitchen and the Tor Hill ramp sit at his eye line)
 
-## Staging change to confirm (safety)
+## Staging change applied (safety)
 
-In the approved script, **Tavita sits on the Hall's roof ridge** in the cold open (P1-06 to
-P1-09), and the **final gag has him fall off the roof ridge into a hay bale**. A fall from a roof,
-even played for laughs, is "peril that feels real" for ages 5 to 8, and a child might copy it.
-
-For consistency with the finale (where I moved the closing image to the East Terrace), I staged the
-**final gag on the East Terrace** (P2-163 to P2-167): Tavita sits on a low crate, the telescope tips
-back, and he topples gently onto a pile of cushions a foot below. That is a **proposed script
-change**, not yet approved.
-
-**Question:** Do you also want the **cold open** moved (P1-06 to P1-09)? I'd suggest Tavita sits on
-the East Terrace railing-side bench, with the Hall's tower behind him. If yes, I'll update
-the script and Part 1 together.
+The approved script had Tavita on the Hall's roof ridge in the cold open and falling off it into a
+hay bale in the final gag. At your approval, both now take place on the **East Terrace**: Tavita sits
+on the terrace bench in the cold open (P1-06) and on a low crate in the final gag (P2-163 to
+P2-167), where he topples a foot onto cushions. The script, the pilot outline and both shot lists
+are updated.
 
 ## Notes and questions for the producer
 

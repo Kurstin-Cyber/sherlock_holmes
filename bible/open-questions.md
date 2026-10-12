@@ -135,7 +135,7 @@ Stage 2 proposes an answer to most items below. See `characters/00-cast-overview
 - [x] **Pilot title sequence:** a 30-second instrumental with a landmark pan (no theme song yet).
 - [x] **Padding eps. 7, 8, 9** with emotional holds, and trimming pilot Part 2 (see the timing report).
 - [ ] **Thumbnail artwork:** add drawn thumbnails for key panels (clues, the Moony reveal, the recap)?
-- [ ] **Safety re-staging:** move Tavita's roof-ridge gags (pilot cold open and final gag) to the East
-  Terrace with a gentle one-foot tumble onto cushions. Final gag staged this way in the Part 2
-  shot list, awaiting approval; the cold open (P1-06 to P1-09) is not yet changed.
-- [ ] **Split-screen teaching beat** (stamped print beside real print) as an approved device.
+- [x] **Safety re-staging:** Tavita's roof-ridge gags (pilot cold open and final gag) moved to the East
+  Terrace, with a gentle one-foot tumble onto cushions. Approved and applied to the script, the
+  outline and both shot lists.
+- [x] **Split-screen teaching beat** (stamped print beside real print) as an approved device.
