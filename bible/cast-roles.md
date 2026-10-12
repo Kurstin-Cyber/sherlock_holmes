@@ -1,6 +1,6 @@
 # Cast Roles
 
-> **PREVIEW. Full character profiles come in Stage 2.**
+> **PREVIEW (Stage 1). Full character profiles are now drafted in `characters/` (Stage 2).**
 > This table maps Doyle's characters to their camp roles only. First names, appearances,
 > ages, family details, catchphrases, strengths and flaws will be set in Stage 2.
 

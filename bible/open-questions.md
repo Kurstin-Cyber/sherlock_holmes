@@ -10,7 +10,10 @@ and tick it off here.*
   Hound!*
 - [ ] **Theme song.** Original song? Should it include the method chant?
 
-## Characters (Stage 2)
+## Characters (Stage 2: proposals drafted, awaiting approval)
+
+Stage 2 proposes an answer to most items below. See `characters/00-cast-overview.md`,
+"Decisions to confirm." They stay unticked until you approve.
 
 - [ ] **First names** for Holmes, Watson and the supporting cast. Keep "Sherlock" and
   "John," or give them new first names?
@@ -65,3 +68,19 @@ and tick it off here.*
   lantern-lit.
 - [ ] **Henry's homesickness.** Keep it gentle and solved with friendship, never sad for
   long.
+
+## New from Stage 2
+
+- [ ] **Cabins.** Mixed-gender cabins (Heather, Bracken, Gorse) so Holmes and Watson can be
+  cabin-mates. Confirm.
+- [ ] **Accessibility additions.** The Boardwalk Trail and the Hall ramp are new world
+  elements. Confirm, then fold into `bible/series-concept.md`.
+- [ ] **Adults.** Voices, notes and photos only (Nana Ngozi, the dads, Grandpa Barrymore and
+  Bà Ngoại, Camp Chief). Confirm.
+- [ ] **Consultants.** Sign language (Minh and Linh), and native-speaker checks for the
+  Welsh, Samoan, Vietnamese, Irish, Arabic, Tamil and Japanese words and foods.
+- [ ] **Secret mascot reason.** Is there a "no pets" camp rule, or another reason Moony stays
+  secret?
+- [ ] **Moony's tag.** Should the old collar tag link him to the Baskerville legend (a
+  Stage 3 pilot decision)?
+- [ ] **Jasper's harmonica.** Should the "howl" be his harmonica (a pilot clue)? Stage 3.

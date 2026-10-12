@@ -22,7 +22,7 @@ mystery every episode using observation and logic.
 ## Stage checklist
 
 - [x] **Stage 1: Series concept and story bible** (`bible/`)
-- [ ] **Stage 2: Character profiles**
+- [~] **Stage 2: Character profiles** (`characters/`; drafted, awaiting producer approval)
 - [ ] **Stage 3: Season arc and episode list**
 - [ ] **Stage 4: Individual scripts**
 - [ ] **Stage 5: Storyboards and shot lists**
@@ -36,10 +36,12 @@ bible/
   episode-formula.md       The 11-minute beat sheet and kid-detective devices
   cast-roles.md            Doyle role to camp role table (preview; full profiles in Stage 2)
   open-questions.md        Decisions still to make
+characters/
+  00-cast-overview.md      Cast table, diversity map, team roles, consistency rules, decisions to confirm
+  01 to 10                 One profile per character (look, personality, voice, family, role, rules)
 ```
 
-Later stages will add folders such as `characters/`, `season/`, `scripts/` and
-`storyboards/`.
+Later stages will add folders such as `season/`, `scripts/` and `storyboards/`.
 
 ## How we work
 
