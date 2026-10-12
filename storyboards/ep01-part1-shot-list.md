@@ -13,7 +13,7 @@ Script: `scripts/ep01-the-hound-comes-home.md`. Rules: `shot-language-guide.md`.
 | Panel | Shot | Move | Picture | Sound | Dur |
 |---|---|---|---|---|---|
 | P1-01 | WS | drift | The swirly-B iron gate, the Hall beyond it with its wobbly tower, lit windows and painted ramp. Purple heather hills under a pink-gold sky. Glittery mist at ground level. | Warm acoustic music, soft birdsong | 7s |
-| P1-02 | MS | static | Henry at the gate: tall, gangly, red plaid, bobble hat, enormous backpack. He looks at the photo of Dad and Hana, sniffs, tucks it away. | Music dips; a ferry-horn note far off (a seed for ep. 5) | 7s |
+| P1-02 | MS | static | Henry at the gate: tall, gangly, red plaid, bobble hat, enormous backpack. He looks at the photo of Dad and Hana, sniffs, tucks it away. | Music dips to a single soft note | 7s |
 | P1-03 | MS | track | Henry steps through. His backpack bumps the gatepost. He bounces off and apologises to the gatepost. | CLANG. "Oh! Sorry!" | 5s |
 | P1-04 | WS | static | Over the hills a long gold ripple of musical notes drifts across the heather. | "Woo-oo-oo-oooo!" (harmonica, round and silly, 3 s) | 6s |
 | P1-05 | CU | static | Henry freezes. His hat slides down over his eyes. A pause. He peeks out from under the brim. | Silence, then a tiny "gulp" | 4s |
@@ -243,8 +243,8 @@ Script: `scripts/ep01-the-hound-comes-home.md`. Rules: `shot-language-guide.md`.
 
 ## Checks against the shot-language guide
 
-- [x] Camera at kid eye level; Watson never shot from above (the ramp entrance, the dining-room
-  doorway and the Heather Cabin star-sticker moment all sit at his eye line)
+- [x] Watson never shot from above (the ramp entrance, the dining-room doorway and the Heather
+  Cabin star-sticker moment all sit at his eye line)
 - [x] Moony's silhouette appears once (P1-133 and P1-134), backlit gold, floppy ear, wagging tail,
   a sneeze within 3 seconds, a cut to Holmes's grin
 - [x] Clue 1 shown in the first showing here; the second showing is the Part 2 recap and the
@@ -256,18 +256,15 @@ Script: `scripts/ep01-the-hound-comes-home.md`. Rules: `shot-language-guide.md`.
 - [x] The legend is in paper puppets, so children know it is a story
 - [x] The chime is used only for numbered clues (the glow-paint step uses a sparkle only)
 
-## Notes and questions for the producer
+## Producer decisions applied (draft 2)
 
-1. **The CAMP DAY chalkboard** reads 85 days in the pilot (suggested order), counting down by five
-   per episode to 0 in the finale. Right?
-2. **Title sequence:** 30 seconds of music, a slow pan across the park and the title. The
-   landmark pan introduces the setting for children. Add a theme song later, or keep the
-   instrumental sting?
-3. **The ferry-horn note in P1-02** is a deliberate seed for episode 5. Keep or cut?
-4. **The legend sequence** runs 70 seconds of paper puppets. That is long for the youngest
-   viewers; the live-action-style reactions (cheers, giggles) are the relief. Trim?
-5. **Panel count (141 in 11 minutes)** gives an average shot of about 4.7 seconds. That fits the
-   guide's 5 to 7 second average. If the animatic feels busy, merge the paired CU dialogue
-   panels.
-6. **Cold-open "ferry horn"** and the **ferry sun-catcher** episodes make Henry's home a
-   recurring image. Keep?
+1. **Title sequence:** a 30-second instrumental with a landmark pan across the park. No theme song.
+2. **Legend length:** the 70-second paper-puppet legend stays as written.
+3. **Ferry-horn note cut** from the opening gate scene (P1-02). The ferry horn now first appears
+   in episode 5, in Henry's own line.
+4. **Camera height** is a default, not a firm rule. This list keeps kid-eye-level framing for
+   most scenes, and uses wider, lower and higher views where the story calls for wonder or
+   a map-like view of the park.
+5. **Animation on twos** and **matching framing for clue replays** are approved.
+6. **Padding and trimming** from the timing report are approved and apply to Part 2 and
+   episodes 7, 8 and 9.

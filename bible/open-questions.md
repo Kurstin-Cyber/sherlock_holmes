@@ -130,8 +130,8 @@ Stage 2 proposes an answer to most items below. See `characters/00-cast-overview
 
 ## New from Stage 5 (storyboards)
 
-- [ ] **Shot-language guide:** animating "on twos"; camera at kid eye level; matching framing for
-  clue replays; the page-turn, golden-iris and paper-puppet transitions; the six-rim team chant.
-- [ ] **Pilot title sequence** as a 30-second instrumental with a landmark pan (no theme song yet).
-- [ ] **Padding eps. 7, 8, 9** with emotional holds, and trimming pilot Part 2 (see the timing report).
+- [x] **Shot-language guide:** approved (animation on twos, matching clue framing, standard transitions);
+  camera at kid eye level is a default, not a firm rule.
+- [x] **Pilot title sequence:** a 30-second instrumental with a landmark pan (no theme song yet).
+- [x] **Padding eps. 7, 8, 9** with emotional holds, and trimming pilot Part 2 (see the timing report).
 - [ ] **Thumbnail artwork:** add drawn thumbnails for key panels (clues, the Moony reveal, the recap)?

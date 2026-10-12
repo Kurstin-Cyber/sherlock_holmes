@@ -33,9 +33,9 @@ Cues from the scripts are kept: `[CLUE ALERT #n, 1st/2nd]`, `[CHANT]`, `[JOURNAL
 
 | Item | Status |
 |---|---|
-| Shot-language guide | Draft 1, awaiting producer notes |
-| Timing report | Draft 1 (estimates only; real timing comes from the animatic) |
-| Pilot Part 1 shot list | Draft 1, awaiting producer notes |
+| Shot-language guide | Approved with notes |
+| Timing report | Approved with notes (estimates only; real timing comes from the animatic) |
+| Pilot Part 1 shot list | Draft 2 (producer notes applied) |
 | Pilot Part 2 | Not started |
 | Episodes 2 to 13 | Not started |
 

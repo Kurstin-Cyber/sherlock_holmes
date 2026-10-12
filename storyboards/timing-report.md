@@ -1,6 +1,6 @@
 # Timing Report
 
-*Stage 5 · Draft 1 · Estimates only*
+*Stage 5 · Approved with producer notes · Estimates only*
 
 ## Method
 
@@ -78,9 +78,8 @@ The pilot's total (21:19) is close to 22:00, but the two halves are uneven.
 | **The Part 2 recap** at the start of Part 2: shorten the dialogue | 0:10 |
 | **Tor Hill dialogue** (the netting and "who carries a net?"): tighten | 0:10 |
 
-## Decisions for the producer
+## Producer decisions
 
-1. **Pad the three short episodes** (7, 8, 9) with the suggested emotional holds. OK?
-2. **Pilot title sequence:** a short harmonica-and-magnifier sequence, no song. OK, or do you
-   want to write a theme song later?
-3. **Trim Part 2** as above. Anything you would rather keep?
+1. **Pad the three short episodes** (7, 8, 9) with the suggested emotional holds: approved.
+2. **Pilot title sequence:** a 30-second instrumental with a landmark pan, no theme song: approved.
+3. **Trim Part 2** as above: approved.

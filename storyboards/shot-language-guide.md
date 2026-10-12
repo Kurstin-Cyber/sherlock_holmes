@@ -1,6 +1,6 @@
 # Shot Language Guide
 
-*Stage 5 · Draft 1 for producer approval · Applies to every episode*
+*Stage 5 · Approved with producer notes · Applies to every episode*
 
 This is the series' visual grammar. If a shot list and this guide disagree, change one of them
 on purpose and tell the producer.
@@ -23,11 +23,14 @@ on purpose and tell the producer.
 
 ## 2. Camera height and angles
 
-Children's shows feel safer when the camera sits at the kids' own eye level.
+The default is a camera at the kids' own eye level, which makes the world feel big and the
+gang feel close. It is a **default, not a firm rule**: use wider, lower or higher views when
+the story calls for wonder, a map-like view of the park, or a joke. The respectful framing
+rules below still apply.
 
 | Rule | Why |
 |---|---|
-| **Default camera height is about a ten-year-old's eye level.** Adults are never in the frame, so the world is kid-sized and grand. | The audience feels they are one of the gang |
+| **Default camera height is about a ten-year-old's eye level.** Adults are never in the frame, so the world is kid-sized and grand. Vary it when the story asks. | The audience feels they are one of the gang |
 | **Mateo Watson is always shot at eye level or slightly below, never from above.** No shot may look down on him, or tilt up at an adult looking down at him. In two-shots, the camera sits at his eye line, with standing characters leaning in or crouching to meet it. | Respect, and equal footing |
 | **Henry Baskerville is shot with a gentle low angle** to show he is tall, softened with warm light and a bobble hat, never looming. | He reads as lanky and friendly, not big and threatening |
 | **Zaid Selden is framed small in a big, warm space.** Wide shots with plenty of sky and friendly shapes around him; never from above. | Smallness feels safe, not vulnerable |
@@ -215,13 +218,10 @@ Before a shot list is approved, tick every item.
 
 ---
 
-## 10. Decisions for the producer
+## 10. Producer decisions
 
-1. **Animating "on twos"** for a storybook feel. Good, or do you prefer smooth, fully animated
-   motion?
-2. **Camera at kid eye level.** This is a firm rule in this guide. OK?
-3. **Matching framing for clue replays.** It makes the recap a "memory game." It also means the
-   first showing of each clue has to be designed with the second in mind. OK?
-4. **The page-turn wipe, golden iris and paper-puppet switch** as the series' only stylised
-   transitions. Add or remove any?
-5. **The six-rim chant** for the whole team (episode 4 onwards). Keep as a rare treat?
+1. **Animating "on twos"** for a storybook feel: approved.
+2. **Camera at kid eye level:** a default, not a firm rule (see section 2).
+3. **Matching framing for clue replays:** approved.
+4. **Transitions** (page-turn wipe, golden iris, paper-puppet switch) and the **six-rim team
+   chant** (episode 4 onwards): no changes requested; kept as written.
