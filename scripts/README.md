@@ -26,9 +26,9 @@ pilot outline in `season/pilot-outline.md`.
 | 5 | The Howl at Bedtime | `ep05-the-howl-at-bedtime.md` | Draft 1, approved |
 | 6 | The Story That Wasn't There | `ep06-the-story-that-wasnt-there.md` | Draft 1, approved |
 | 7 | The Portrait That Winked | `ep07-the-portrait-that-winked.md` | Draft 1, approved |
-| 8 | The Flying Lantern | `ep08-the-flying-lantern.md` | Draft 1, awaiting producer notes |
-| 9 | The Shadow on the Stones | `ep09-the-shadow-on-the-stones.md` | Draft 1, awaiting producer notes |
-| 10 | The Trail That Went in Circles | `ep10-the-trail-that-went-in-circles.md` | Draft 1, awaiting producer notes |
+| 8 | The Flying Lantern | `ep08-the-flying-lantern.md` | Draft 1, approved |
+| 9 | The Shadow on the Stones | `ep09-the-shadow-on-the-stones.md` | Draft 1, approved |
+| 10 | The Trail That Went in Circles | `ep10-the-trail-that-went-in-circles.md` | Draft 1, approved |
 | 11 to 13 | See `season/episode-list.md` | Not started | Final batch after notes on episodes 8 to 10 |
 
 ## Writing rules

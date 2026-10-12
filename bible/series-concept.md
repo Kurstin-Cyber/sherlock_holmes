@@ -167,3 +167,11 @@ When a scene might be too scary or too complex for ages 5-8, the script marks it
 Camp Baskerville is run by kids, in storybook logic. Adults exist only as **off-screen
 voices, letters, photos and notes** (Nana Odessa's letters, Henry's video calls, Grandpa
 Barrymore and Bà Ngoại calling from the kitchen, a note from "the Camp Chief").
+
+## Park and camp animals
+
+Recurring background animals (never menacing, never blamed for long):
+
+- **Duchess** is a very round, calm sheep who lives behind the kitchen, wanders the park, and
+  scratches her back on whatever is handy. She wears a collar with a bell and a name tag.
+- **Owls, ducks and moths** appear as one-off mystery solutions.
