@@ -120,10 +120,10 @@ Stage 2 proposes an answer to most items below. See `characters/00-cast-overview
 - [x] **Moony's list of fears** now includes ducks and his own shadow. Add to his profile?
 - [x] **Watson's lantern kite** (ep. 8) could return on Camp Day (ep. 13) as a bonus.
 - [x] **Jasper's "It's a good sign" pun** (ep. 10): keep?
-- [ ] **Moony's daily sunset trip to Tor Hill** (ep. 12) and **"Moony's Door,"** a big dog flap in
+- [x] **Moony's daily sunset trip to Tor Hill** (ep. 12) and **"Moony's Door,"** a big dog flap in
   the boot-room back door. Add to his profile and the world?
-- [ ] **Loud music** as a new fear for Moony (ep. 13).
-- [ ] **Brambledown Camp** (ep. 13): unnamed visiting kids in orange caps. Recurring, or one-off?
-- [ ] **The Park Prize's golden acorn** (ep. 13) as a fixed prop.
-- [ ] **"Aua le popole"** (ep. 12) as a recurring Tavita phrase. Needs a Samoan consultant.
+- [x] **Loud music** as a new fear for Moony (ep. 13).
+- [x] **Brambledown Camp** (ep. 13): unnamed visiting kids in orange caps. Recurring, or one-off?
+- [x] **The Park Prize's golden acorn** (ep. 13) as a fixed prop.
+- [x] **"Aua le popole"** (ep. 12) approved as a recurring Tavita phrase. **Still needs a Samoan consultant.**
 - [ ] **Season-end card** ("see you next summer")?

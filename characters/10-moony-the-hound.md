@@ -35,7 +35,7 @@
 **Flaws**
 - Loves snacks a little too much (steals sandwiches)
 - Clumsy; sits on things, knocks things over, wags objects off tables
-- Gets scared of small things (squirrels, wind, hats, ducks and his own shadow)
+- Gets scared of small things (squirrels, wind, hats, ducks, his own shadow and loud brass bands)
 - Howls when he's happy, hungry or lonely, which gets him blamed
 
 **Quirks**
@@ -55,6 +55,14 @@ Moony is a lost, friendly dog who wandered into the park long ago. He was not a 
 lived on scraps until Zaid found him and started sharing sandwiches. His "glowing eyes" come
 from an old reflective collar that belonged to a Baskerville dog, with a tag nobody has
 read. (The tag can be a gentle pilot payoff: it links Moony to the Baskerville legend.)
+
+## Habits (from the scripts)
+
+- Slips out through **Moony's Door**, a big dog flap in the boot-room back door, at about five
+  o'clock every day to watch the sunset from Tor Hill, and is back for supper.
+- Takes socks, sticks and cheese crusts. Sleeps in the boot-room basket on windy nights.
+- Looks just like the painted dog in Sir Bartholomew Baskerville's portrait (a seed, not yet
+  explained).
 
 ## Series role
 

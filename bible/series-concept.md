@@ -175,3 +175,6 @@ Recurring background animals (never menacing, never blamed for long):
 - **Duchess** is a very round, calm sheep who lives behind the kitchen, wanders the park, and
   scratches her back on whatever is handy. She wears a collar with a bell and a name tag.
 - **Owls, ducks and moths** appear as one-off mystery solutions.
+- **Brambledown Camp** is a neighbouring camp whose kids (matching orange caps) visit on Camp Day.
+- **Camp Day** is the end-of-summer celebration. The **Park Prize** is a shared golden acorn for
+  the camp's Best Discovery.

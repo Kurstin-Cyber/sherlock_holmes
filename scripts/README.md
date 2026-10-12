@@ -29,9 +29,9 @@ pilot outline in `season/pilot-outline.md`.
 | 8 | The Flying Lantern | `ep08-the-flying-lantern.md` | Draft 1, approved |
 | 9 | The Shadow on the Stones | `ep09-the-shadow-on-the-stones.md` | Draft 1, approved |
 | 10 | The Trail That Went in Circles | `ep10-the-trail-that-went-in-circles.md` | Draft 1, approved |
-| 11 | The Hound's Sore Paw | `ep11-the-hounds-sore-paw.md` | Draft 1, awaiting producer notes |
-| 12 | The Boy Who Saw the Hound | `ep12-the-boy-who-saw-the-hound.md` | Draft 1, awaiting producer notes |
-| 13 | Camp Day (finale) | `ep13-camp-day.md` | Draft 1, awaiting producer notes |
+| 11 | The Hound's Sore Paw | `ep11-the-hounds-sore-paw.md` | Draft 1, approved |
+| 12 | The Boy Who Saw the Hound | `ep12-the-boy-who-saw-the-hound.md` | Draft 1, approved |
+| 13 | Camp Day (finale) | `ep13-camp-day.md` | Draft 1, approved |
 
 ## Writing rules
 
