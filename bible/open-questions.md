@@ -115,3 +115,8 @@ Stage 2 proposes an answer to most items below. See `characters/00-cast-overview
 - [x] **Moony and the painted dog in the Baskerville portrait** (ep. 7): a seed for the
   collar-tag story. Keep, or cut?
 - [x] **Hana, Henry's baby sister,** as an off-screen character the show can return to.
+- [ ] **Duchess the sheep** (ep. 9 and 10) as a recurring background animal who lives behind the
+  kitchen and wanders the park. Add to the bible?
+- [ ] **Moony's list of fears** now includes ducks and his own shadow. Add to his profile?
+- [ ] **Watson's lantern kite** (ep. 8) could return on Camp Day (ep. 13) as a bonus.
+- [ ] **Jasper's "It's a good sign" pun** (ep. 10): keep?

@@ -26,7 +26,10 @@ pilot outline in `season/pilot-outline.md`.
 | 5 | The Howl at Bedtime | `ep05-the-howl-at-bedtime.md` | Draft 1, approved |
 | 6 | The Story That Wasn't There | `ep06-the-story-that-wasnt-there.md` | Draft 1, approved |
 | 7 | The Portrait That Winked | `ep07-the-portrait-that-winked.md` | Draft 1, approved |
-| 8 to 13 | See `season/episode-list.md` | Not started | Next batch (8 to 10) after notes on episodes 5 to 7 |
+| 8 | The Flying Lantern | `ep08-the-flying-lantern.md` | Draft 1, awaiting producer notes |
+| 9 | The Shadow on the Stones | `ep09-the-shadow-on-the-stones.md` | Draft 1, awaiting producer notes |
+| 10 | The Trail That Went in Circles | `ep10-the-trail-that-went-in-circles.md` | Draft 1, awaiting producer notes |
+| 11 to 13 | See `season/episode-list.md` | Not started | Final batch after notes on episodes 8 to 10 |
 
 ## Writing rules
 
@@ -46,7 +49,7 @@ pilot outline in `season/pilot-outline.md`.
   big, he's shaggy, and he wants a snack!"
 - **Watson's journal day numbers** follow the suggested order (episode 2 = day 31, episode 3 =
   day 36, episode 4 = day 41, episode 5 = day 46, episode 6 = day 51, episode 7 = day 56,
-  and so on, five days apart). They never matter to the plot.
+  episode 8 = day 61, episode 9 = day 66, episode 10 = day 71, and so on, five days apart). They never matter to the plot.
 - **Holmes's "THINGS THAT GO BUMP" chart** gains one line per episode (optional gag).
 - **Tavita's "Never mind"** appears once an episode, twice at most.
 - **Smells are shown as coloured ribbons** with little icons inside (lilac with paint pots in
