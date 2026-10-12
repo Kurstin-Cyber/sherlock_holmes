@@ -1,6 +1,6 @@
 # Thumbnails
 
-*Stage 5 · Approved (first set) · second set (clue frames, episodes 2 to 13) draft 1*
+*Stage 5 · Approved (first set) · second set (clue frames, episodes 2 to 13) and third set (replay frames) draft 1*
 
 Drawn thumbnails for the key panels called out in the shot lists. They are **vector drawings
 (SVG)** with PNG previews, in a simple storybook style. They show **staging, framing, colour and
@@ -39,6 +39,27 @@ Each sheet shows an episode's three clues as their first-showing frames. The sho
 | 21 | [`21-ep11-clue-frames`](21-ep11-clue-frames.png) | Ep. 11, "The Hound's Sore Paw": the three clues in their first-showing frames (each replay reuses this framing) | E11 clue frames |
 | 22 | [`22-ep12-clue-frames`](22-ep12-clue-frames.png) | Ep. 12, "The Boy Who Saw the Hound": the three clues in their first-showing frames (each replay reuses this framing) | E12 clue frames |
 | 23 | [`23-ep13-clue-frames`](23-ep13-clue-frames.png) | Ep. 13, "Camp Day": the three clues in their first-showing frames (each replay reuses this framing) | E13 clue frames |
+
+### Replay frames (third set)
+
+The second showing of every clue. The framing is identical to the first showing; the only change is that the golden outline is **already lit** from the first frame (no draw-on), with the chime and sparkle marked by a gold "2" badge. Sheet 25 compares the two showings.
+
+| # | Image | What it shows | Shot-list reference |
+|---|---|---|---|
+| 24 | [`24-pilot-replay-frames`](24-pilot-replay-frames.png) | The pilot's clue frames, second showing: same framing, outline already lit | Pilot recap and flash-backs |
+| 25 | [`25-first-vs-second-showing`](25-first-vs-second-showing.png) | Side by side: first showing (reveal, then outline draws on) against the replay (outline lit from the first frame) | Shot-language guide, "second showing" |
+| 26 | [`26-ep02-replay-frames`](26-ep02-replay-frames.png) | Ep. 2, "The Case of the Missing Sandwiches": the three clues, second showing | E02 recap |
+| 27 | [`27-ep03-replay-frames`](27-ep03-replay-frames.png) | Ep. 3, "The Light in the Attic Window": the three clues, second showing | E03 recap |
+| 28 | [`28-ep04-replay-frames`](28-ep04-replay-frames.png) | Ep. 4, "The Boots That Vanished": the three clues, second showing | E04 recap |
+| 29 | [`29-ep05-replay-frames`](29-ep05-replay-frames.png) | Ep. 5, "The Howl at Bedtime": the three clues, second showing | E05 recap |
+| 30 | [`30-ep06-replay-frames`](30-ep06-replay-frames.png) | Ep. 6, "The Story That Wasn't There": the three clues, second showing | E06 recap |
+| 31 | [`31-ep07-replay-frames`](31-ep07-replay-frames.png) | Ep. 7, "The Portrait That Winked": the three clues, second showing | E07 recap |
+| 32 | [`32-ep08-replay-frames`](32-ep08-replay-frames.png) | Ep. 8, "The Flying Lantern": the three clues, second showing | E08 recap |
+| 33 | [`33-ep09-replay-frames`](33-ep09-replay-frames.png) | Ep. 9, "The Shadow on the Stones": the three clues, second showing | E09 recap |
+| 34 | [`34-ep10-replay-frames`](34-ep10-replay-frames.png) | Ep. 10, "The Trail That Went in Circles": the three clues, second showing | E10 recap |
+| 35 | [`35-ep11-replay-frames`](35-ep11-replay-frames.png) | Ep. 11, "The Hound's Sore Paw": the three clues, second showing | E11 recap |
+| 36 | [`36-ep12-replay-frames`](36-ep12-replay-frames.png) | Ep. 12, "The Boy Who Saw the Hound": the three clues, second showing | E12 recap |
+| 37 | [`37-ep13-replay-frames`](37-ep13-replay-frames.png) | Ep. 13, "Camp Day": the three clues, second showing | E13 recap |
 
 ## Notes for the producer
 

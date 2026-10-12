@@ -11,7 +11,7 @@ Camera, staging and timing plans for animators. Stage 5 turns the approved scrip
 | `timing-report.md` | Estimated running time of all 13 scripts, where each is long or short, and a recommended trim or pad list |
 | `ep01-part1-shot-list.md` | Pilot Part 1 ("The Legend"): a numbered shot list with storyboard panel descriptions, timed to 11:00 |
 | `ep02-shot-list.md` to `ep13-shot-list.md` | Episodes 2 to 13: about 110 to 150 panels each, timed to 11:00, with the padding or trim plan applied |
-| `thumbnails/` | Drawn thumbnails (SVG and PNG): 11 key panels (cast lineup, title art, Moony's reveal, the pilot's clues, the Clue Alert beats, the recap layout, five episode key images) plus a clue-frame sheet for each of episodes 2 to 13 (23 images in all). Start with `thumbnails/README.md` or `thumbnails/contact-sheet.html` |
+| `thumbnails/` | Drawn thumbnails (SVG and PNG): 11 key panels (cast lineup, title art, Moony's reveal, the pilot's clues, the Clue Alert beats, the recap layout, five episode key images) plus a clue-frame sheet for each of episodes 2 to 13 plus replay frames (second showing) for the pilot and every episode (37 images in all). Start with `thumbnails/README.md` or `thumbnails/contact-sheet.html` |
 | `ep01-part2-shot-list.md` | Pilot Part 2 ("The Hound"): 168 panels timed to 11:00, with the timing report's trims applied |
 
 All 13 episodes now have a shot list, and the key panels have drawn thumbnails. Next, if wanted: more thumbnails and an animatic.
@@ -45,7 +45,8 @@ Cues from the scripts are kept: `[CLUE ALERT #n, 1st/2nd]`, `[CHANT]`, `[JOURNAL
 | Episodes 8, 9, 10 shot lists | Approved |
 | Episodes 11, 12, 13 shot lists | Approved |
 | Thumbnails, first set (11 images) | Approved |
-| Thumbnails, clue frames for episodes 2 to 13 (12 sheets) | Draft 1, awaiting producer notes |
+| Thumbnails, clue frames for episodes 2 to 13 (12 sheets) | Approved |
+| Thumbnails, replay frames for the pilot and episodes 2 to 13 (14 sheets) | Draft 1, awaiting producer notes |
 
 ## What this stage does not do
 

@@ -46,6 +46,7 @@ season/
 scripts/
   README.md                Script format, writing rules, status tracker
   ep01 to ep13             All 13 scripts (approved)
+  audio/                   ElevenLabs-ready text of episode 1 (speaker-labelled lines)
 storyboards/
   README.md                How to read the shot lists; status tracker
   shot-language-guide.md   Series visual grammar: camera, light, Clue Alert, recap, sound, safety
@@ -53,7 +54,7 @@ storyboards/
   ep01-part1-shot-list.md  Pilot Part 1: 141 panels timed to 11:00
   ep01-part2-shot-list.md  Pilot Part 2: 168 panels timed to 11:00, trims applied
   ep02 to ep13 shot lists  Episodes 2 to 13: panels timed to 11:00, padding or trim applied
-  thumbnails/              23 drawn thumbnails (SVG + PNG): cast, title art, Moony, key images, clue frames for every episode
+  thumbnails/              37 drawn thumbnails (SVG + PNG): cast, title art, Moony, key images, clue frames and replay frames for every episode
 ```
 
 ## How we work
