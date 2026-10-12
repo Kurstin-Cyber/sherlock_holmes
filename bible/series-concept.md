@@ -66,6 +66,7 @@ trails and wide open sky.
 | **The Grimpen Squelch** | A harmless, ankle-deep mud flat that goes *squelch* | Lost boots, muddy footprints, slapstick |
 | **Heather hills and trails** | Purple hills, paths and hollows | Chases, tracking, nature finds |
 | **The Squelch Lookout Deck** | A round wooden platform at the end of the Boardwalk beside the Grimpen Squelch, built by campers, with a daisy railing, flag, pulley with rope and bucket, and a bell ("Squelch Control") | A high viewing spot; Watson's favourite place |
+| **The East Terrace** | A flat stone balcony on the Hall's east side with a thick railing, a rooster weathervane on the tower above, and an old brass chimney pipe | Wind, weather, a safe high view over the heather |
 | **The Boardwalk Trail** | A wooden path through the heather from the Hall to the Stone Circle and the foot of Tor Hill, with a flower painted on every post | Accessible route for everyone; Mateo's chair rolls it easily |
 
 ⚠️ The Grimpen Squelch is **never dangerous**. Nobody sinks. The worst that happens is a

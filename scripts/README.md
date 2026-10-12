@@ -23,9 +23,9 @@ pilot outline in `season/pilot-outline.md`.
 | 2 | The Case of the Missing Sandwiches | `ep02-the-case-of-the-missing-sandwiches.md` | Draft 1, approved |
 | 3 | The Light in the Attic Window | `ep03-the-light-in-the-attic-window.md` | Draft 1, approved |
 | 4 | The Boots That Vanished | `ep04-the-boots-that-vanished.md` | Draft 1, approved |
-| 5 | The Howl at Bedtime | `ep05-the-howl-at-bedtime.md` | Draft 1, awaiting producer notes |
-| 6 | The Story That Wasn't There | `ep06-the-story-that-wasnt-there.md` | Draft 1, awaiting producer notes |
-| 7 | The Portrait That Winked | `ep07-the-portrait-that-winked.md` | Draft 1, awaiting producer notes |
+| 5 | The Howl at Bedtime | `ep05-the-howl-at-bedtime.md` | Draft 1, approved |
+| 6 | The Story That Wasn't There | `ep06-the-story-that-wasnt-there.md` | Draft 1, approved |
+| 7 | The Portrait That Winked | `ep07-the-portrait-that-winked.md` | Draft 1, approved |
 | 8 to 13 | See `season/episode-list.md` | Not started | Next batch (8 to 10) after notes on episodes 5 to 7 |
 
 ## Writing rules

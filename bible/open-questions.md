@@ -108,10 +108,10 @@ Stage 2 proposes an answer to most items below. See `characters/00-cast-overview
 - [x] **Moony is afraid of ducks.** Add to his profile?
 - [x] **Holmes's "THINGS THAT GO BUMP" chart** as an optional running gag.
 - [x] **Tavita's "Never mind"** once per episode, twice at most.
-- [ ] **The East Terrace** (a flat stone balcony on the Hall's east side with a thick railing,
+- [x] **The East Terrace** (a flat stone balcony on the Hall's east side with a thick railing,
   ep. 5) as a fixed location.
-- [ ] **Biscuit**, Henry's dog back in Vancouver (ep. 5), as a fixed family detail.
-- [ ] **Anjali and Beryl's "very big" / "medium" squirrel gag** (ep. 6).
-- [ ] **Moony and the painted dog in the Baskerville portrait** (ep. 7): a seed for the
+- [x] **Biscuit**, Henry's dog back in Vancouver (ep. 5), as a fixed family detail.
+- [x] **Anjali and Beryl's "very big" / "medium" squirrel gag** (ep. 6).
+- [x] **Moony and the painted dog in the Baskerville portrait** (ep. 7): a seed for the
   collar-tag story. Keep, or cut?
-- [ ] **Hana, Henry's baby sister,** as an off-screen character the show can return to.
+- [x] **Hana, Henry's baby sister,** as an off-screen character the show can return to.

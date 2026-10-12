@@ -58,6 +58,8 @@ everything to home. Gets quiet and short when sad.
   episodes.
 - Mum's side is Scottish (his Gran sends shortbread); Dad's side is Japanese-Canadian
   (his Ojiichan taught him how to make onigiri). He shares both.
+- Has a dog back home called **Biscuit**. His baby sister **Hana** is the show's off-screen
+  family member; a tin ferry named *Hana* was made for him in the portrait episode.
 - Is the only camper whose family name is on the manor's walls, and he doesn't know
   what to do with that.
 
