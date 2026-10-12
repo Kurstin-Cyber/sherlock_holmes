@@ -11,9 +11,10 @@ Camera, staging and timing plans for animators. Stage 5 turns the approved scrip
 | `timing-report.md` | Estimated running time of all 13 scripts, where each is long or short, and a recommended trim or pad list |
 | `ep01-part1-shot-list.md` | Pilot Part 1 ("The Legend"): a numbered shot list with storyboard panel descriptions, timed to 11:00 |
 | `ep02-shot-list.md` to `ep13-shot-list.md` | Episodes 2 to 13: about 110 to 150 panels each, timed to 11:00, with the padding or trim plan applied |
+| `thumbnails/` | Drawn thumbnails (SVG and PNG) for the key panels: cast lineup, title art, Moony's reveal, clue frames, the Clue Alert beats, the recap layout and five episode key images. Start with `thumbnails/README.md` |
 | `ep01-part2-shot-list.md` | Pilot Part 2 ("The Hound"): 168 panels timed to 11:00, with the timing report's trims applied |
 
-All 13 episodes now have a shot list. Next, if wanted: thumbnail artwork for key panels, and an animatic.
+All 13 episodes now have a shot list, and the key panels have drawn thumbnails. Next, if wanted: more thumbnails and an animatic.
 
 ## How to read a shot list
 
@@ -42,12 +43,13 @@ Cues from the scripts are kept: `[CLUE ALERT #n, 1st/2nd]`, `[CHANT]`, `[JOURNAL
 | Episodes 2, 3, 4 shot lists | Approved |
 | Episodes 5, 6, 7 shot lists | Approved |
 | Episodes 8, 9, 10 shot lists | Approved |
-| Episodes 11, 12, 13 shot lists | Draft 1, awaiting producer notes |
+| Episodes 11, 12, 13 shot lists | Approved |
+| Thumbnails (11 images) | Draft 1, awaiting producer notes |
 
 ## What this stage does not do
 
-- It does not produce finished artwork. Panel descriptions are written, not drawn. If useful,
-  the next step can add thumbnail drawings for key panels (clue shots, the Moony reveal, the
-  recap layout).
+- It does not produce finished artwork. Panel descriptions are written; the `thumbnails/` folder
+  adds simple drawn thumbnails for the key panels only. They show staging, framing and colour, not
+  the final 3D look.
 - It does not replace an animatic. The timings here are estimates from the scripts. A
   read-aloud animatic with voices will set the real running times.

@@ -1,6 +1,6 @@
 # Episode 12: The Boy Who Saw the Hound: Shot List and Storyboard Panels
 
-*Stage 5 · Draft 1 for producer approval · target 11:00 · timing-report padding plan applied*
+*Stage 5 · Approved · target 11:00 · timing-report padding plan applied*
 
 Script: `scripts/ep12-the-boy-who-saw-the-hound.md`. Rules: `shot-language-guide.md`.
 

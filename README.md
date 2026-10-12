@@ -53,6 +53,7 @@ storyboards/
   ep01-part1-shot-list.md  Pilot Part 1: 141 panels timed to 11:00
   ep01-part2-shot-list.md  Pilot Part 2: 168 panels timed to 11:00, trims applied
   ep02 to ep13 shot lists  Episodes 2 to 13: panels timed to 11:00, padding or trim applied
+  thumbnails/              11 drawn thumbnails (SVG + PNG): cast, title art, clues, Moony, key images
 ```
 
 ## How we work
