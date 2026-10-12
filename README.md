@@ -25,7 +25,7 @@ mystery every episode using observation and logic.
 - [x] **Stage 2: Character profiles** (`characters/`; approved)
 - [x] **Stage 3: Season arc and episode list** (`season/`; approved)
 - [x] **Stage 4: Individual scripts** (`scripts/`; all 13 scripts approved)
-- [~] **Stage 5: Storyboards and shot lists** (`storyboards/`; guide, timing report, pilot and episodes 2 to 7 drafted)
+- [~] **Stage 5: Storyboards and shot lists** (`storyboards/`; guide, timing report, pilot and episodes 2 to 10 drafted)
 
 ## Repository map
 
@@ -52,7 +52,7 @@ storyboards/
   timing-report.md         Estimated running time of all 13 scripts, with trim and pad plans
   ep01-part1-shot-list.md  Pilot Part 1: 141 panels timed to 11:00
   ep01-part2-shot-list.md  Pilot Part 2: 168 panels timed to 11:00, trims applied
-  ep02 to ep07 shot lists  Episodes 2 to 7: panels timed to 11:00, padding or trim applied
+  ep02 to ep10 shot lists  Episodes 2 to 10: panels timed to 11:00, padding or trim applied
 ```
 
 ## How we work
