@@ -10,10 +10,10 @@ Camera, staging and timing plans for animators. Stage 5 turns the approved scrip
 | `shot-language-guide.md` | The series' visual grammar: camera rules, lighting, the Clue Alert and recap shots, sound design cues, accessibility and scare-safe checks. Applies to every episode. |
 | `timing-report.md` | Estimated running time of all 13 scripts, where each is long or short, and a recommended trim or pad list |
 | `ep01-part1-shot-list.md` | Pilot Part 1 ("The Legend"): a numbered shot list with storyboard panel descriptions, timed to 11:00 |
-| `ep02-shot-list.md` to `ep10-shot-list.md` | Episodes 2 to 10: about 110 to 150 panels each, timed to 11:00, with the padding or trim plan applied |
+| `ep02-shot-list.md` to `ep13-shot-list.md` | Episodes 2 to 13: about 110 to 150 panels each, timed to 11:00, with the padding or trim plan applied |
 | `ep01-part2-shot-list.md` | Pilot Part 2 ("The Hound"): 168 panels timed to 11:00, with the timing report's trims applied |
 
-Still to come, in batches of about three: episodes 11 to 13.
+All 13 episodes now have a shot list. Next, if wanted: thumbnail artwork for key panels, and an animatic.
 
 ## How to read a shot list
 
@@ -42,7 +42,7 @@ Cues from the scripts are kept: `[CLUE ALERT #n, 1st/2nd]`, `[CHANT]`, `[JOURNAL
 | Episodes 2, 3, 4 shot lists | Approved |
 | Episodes 5, 6, 7 shot lists | Approved |
 | Episodes 8, 9, 10 shot lists | Approved |
-| Episodes 11 to 13 | Not started |
+| Episodes 11, 12, 13 shot lists | Draft 1, awaiting producer notes |
 
 ## What this stage does not do
 
