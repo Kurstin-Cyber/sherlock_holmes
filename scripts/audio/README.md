@@ -58,3 +58,24 @@ music and silence).
   Minh's "I was stubborn. I'm sorry I sulked." is spoken aloud for the audience in the script, so it is kept.
 - **Twins speaking together:** "LINH & MINH" lines are two consecutive identical lines. Layer them when editing.
 - **Moony** has no lines in this episode.
+
+## Episode 3: The Light in the Attic Window
+
+`ep03-the-light-in-the-attic-window-elevenlabs.txt` (plain) and `...-v3-tagged.txt` (with tags).
+103 lines, about 620 spoken words, 9 speakers.
+
+| Speaker | Lines |
+|---|---|
+| HOLMES | 38 |
+| JASPER | 20 |
+| HENRY | 16 |
+| WATSON | 12 |
+| TAVITA | 9 |
+| BERYL | 3 |
+| ANJALI | 2 |
+| ALL | 1 ("AH!", the group jump; use one voice or layer several) |
+| EVERYONE | 1 ("Shh!") |
+| MOONY | 1 (a sneeze, "Achoo.") |
+
+- **Signs and notes:** the attic sign ("ATTIC: CLOSED...") is written text, not spoken, so it is left out. Watson reads "J.S." aloud, which is kept.
+- **Tool note:** the converter now skips only real sign-language lines, not lines like "taps the sign".
