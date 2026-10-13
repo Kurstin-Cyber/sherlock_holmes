@@ -38,3 +38,23 @@ music and silence).
 - **Group howl, Moony's tiny "woo" in the meadow, and the final gag's "woo"** are in action lines,
   not dialogue, so they are not included. Add them from sound effects.
 - **Title cards** and **Part One / Part Two** cards have no voice.
+
+## Episode 2: The Case of the Missing Sandwiches
+
+`ep02-the-case-of-the-missing-sandwiches-elevenlabs.txt` (plain) and `...-v3-tagged.txt` (with tags).
+103 lines, about 570 spoken words, 7 speakers.
+
+| Speaker | Lines |
+|---|---|
+| HOLMES | 38 |
+| LINH | 18 |
+| MINH | 17 |
+| WATSON | 15 |
+| TAVITA | 10 |
+| ANJALI | 4 |
+| EVERYONE | 1 (Tavita, Anjali and the others whispering "Shh!"; use one voice or layer several) |
+
+- **Signed lines left out:** Minh's "Please help." and Watson's "Yes." are subtitle-only in the film.
+  Minh's "I was stubborn. I'm sorry I sulked." is spoken aloud for the audience in the script, so it is kept.
+- **Twins speaking together:** "LINH & MINH" lines are two consecutive identical lines. Layer them when editing.
+- **Moony** has no lines in this episode.
